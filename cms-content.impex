@@ -1,0 +1,19 @@
+# USE CTRL-SPACE for type-ahead support
+$lang=en
+$contentCatalog=powertools-inContentCatalog
+$contentCV=catalogVersion(CatalogVersion.catalog(Catalog.id[default=$contentCatalog]),CatalogVersion.version[default=Staged])[default=$contentCatalog:Staged]
+$picture=media(code, $contentCV);
+$siteResource=jar:com.shell.mh.constants.MarkethubinitialdataConstants&/markethubinitialdata/import/coredata/contentCatalogs/$contentCatalog
+$medias=medias(code, $contentCV);
+$mediaContainer=media(qualifier, $contentCV)[lang=$lang];
+
+INSERT_UPDATE Media;mediaFormat(qualifier);code[unique=true];@media[translator=de.hybris.platform.impex.jalo.media.MediaDataTranslator][forceWrite=true];realfilename;altText;mime[default='image/jpeg'];$contentCV[unique=true];folder(qualifier)[default=images];
+;desktop;Homepage-banner-IN_HELIX.jpg;$siteResource/images/Homepage-banner-IN_HELIX.jpg;Homepage-banner-IN_HELIX.jpg;"The campaign banner for helix to add products ";
+;desktop;OV-PL-Desktop-Dashboard-Distributor_noAddToCart.jpg;$siteResource/images/OV-PL-Desktop-Dashboard-Distributor_noAddToCart.jpg;OV-PL-Desktop-Dashboard-Distributor_noAddToCart.jpg;"The campaign banner for Distributor For OV ";
+;widescreen;Electronics_ThanksgivingSale_EN_1400W.jpg;$siteResource/images/Electronics_ThanksgivingSale_EN_1400W.jpg;Electronics_ThanksgivingSale_EN_1400W.jpg;"The Electronics sale for india";
+
+INSERT_UPDATE MediaContainer;qualifier[unique=true];$medias;$contentCV[unique=true]
+;shell-homepage-spalsh-in;Electronics_ThanksgivingSale_EN_1400W.jpg;
+
+INSERT_UPDATE SimpleResponsiveBannerComponent;$contentCV[unique=true];uid[unique=true];$mediaContainer
+;;PowertoolsHompageSplashBannerComponent;shell-homepage-spalsh-in
