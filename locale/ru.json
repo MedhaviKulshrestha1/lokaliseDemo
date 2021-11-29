@@ -1,0 +1,23 @@
+{
+    "page_1.welcome": "ДОБРО ПОЖАЛОВАТЬ",
+    "page_1.lokalise_demo": "ЛОКАЛИЗЕ ДЕМО",
+    "accountsummary": {
+        "title": "",
+        "creditlimit": "",
+        "remainingcredit": "",
+        "remaining": "",
+        "overdue": "",
+        "outstandingwithinterm": "",
+        "creditavailable": "",
+        "paymentamount": "",
+        "paymentdate": "Дата последнего платежа",
+        "amountdue": "Сумма к уплате",
+        "openordervalue": "Стоимость открытого ордера",
+        "producttype": "Тип продукта",
+        "paymentmethod": "Способ оплаты",
+        "paymentterms": "Условия оплаты",
+        "moreinformation": "Дополнительная информация",
+        "lessinformation": "Меньше информации",
+        "print": "Печатать"
+    }
+}
