@@ -1,0 +1,21 @@
+{
+  "accountsummary": {
+    "title": "Account summary",
+    "creditlimit": "Credit limit",
+    "remainingcredit": "Remaining credit",
+    "remaining": "remaining",
+    "overdue": "Overdue",
+    "outstandingwithinterm": "Outstanding within term",
+    "creditavailable": "Available credit",
+    "paymentamount": "Last payment amount",
+    "paymentdate": "Last payment date",
+    "amountdue": "Amount Due",
+    "openordervalue": "Open order value",
+    "producttype": "Product type",
+    "paymentmethod": "Payment method",
+    "paymentterms": "Payment terms",
+    "moreinformation": "More information",
+    "lessinformation": "Less information",
+    "print": "Print"
+  }
+}
