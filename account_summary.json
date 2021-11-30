@@ -16,6 +16,7 @@
     "paymentterms": "Payment terms",
     "moreinformation": "More information",
     "lessinformation": "Less information",
-    "print": "Print"
+    "print": "Print",
+    "printtest": "PrintTest"
   }
 }
