@@ -1,0 +1,1796 @@
+{
+    "accountsummary": {
+        "title": "Résumé du compte",
+        "creditlimit": "Limite de crédit",
+        "remainingcredit": "Crédit restant",
+        "remaining": "restant",
+        "overdue": "En retard",
+        "outstandingwithinterm": "En cours dans les delais",
+        "creditavailable": "Crédit disponible",
+        "paymentamount": "Montant du dernier paiement",
+        "paymentdate": "Date du dernier paiement",
+        "amountdue": "Montant dû",
+        "openordervalue": "Valeur de la commande ouverte",
+        "producttype": "Type de produit",
+        "paymentmethod": "Mode de paiement",
+        "paymentterms": "Conditions de paiement",
+        "moreinformation": "Plus d'information",
+        "lessinformation": "Moins d'information",
+        "print": "Imprimer",
+        "printtest": "",
+        "test": "Test mis à jour"
+    },
+    "actions": {
+        "save": "Sauvegarder",
+        "cancel": "Annuler",
+        "clickHere": "cliquez ici."
+    },
+    "billingdocuments": {
+        "payer": "Payeur",
+        "Account": "",
+        "selectAccount": "",
+        "selectPayer": "",
+        "selectCreditarea": "",
+        "creditcontrol": "Credit control area",
+        "creditcontrolarea": "",
+        "title": "Documents de facturation",
+        "all": "Tous",
+        "deliverylocations": " les lieux de livraison",
+        "deliverylocation": "Tous les lieux de livraison",
+        "alllocation": "Tous les lieux",
+        "allstatus": "Tous les statuts",
+        "alldocumenttype": "Tous les types de documents",
+        "documentcreateddate": "ate de création du document",
+        "showall": "Show all billing documents",
+        "billingdocumentno": "Numéro de la facture",
+        "totalamount": "Montant total (GBP)",
+        "totlamountnocurrency": "Montant total",
+        "paymentstatus": "Statut du paiement",
+        "paymentmethod": "Mode de paiement",
+        "duedate": "Date d'échéance",
+        "actions": "Actions",
+        "noresult": "There is no results to display",
+        "dateFilterTitle": "All billing documents",
+        "refNumber": "Numéro de réference",
+        "billingDate": "Date de facturation",
+        "billingType": "Type de facturation",
+        "lastCountMonths": "Last {{count}} Months",
+        "configureColumn": "Configure Column",
+        "showbillingdocument": "Show billing documents",
+        "ponumber": "N˚ de bon de commande",
+        "ponumbermobile": "N˚ de bon de commande",
+        "createddate": "Date de création",
+        "ordercreateddate": "Order Date de création",
+        "status": "Statut",
+        "filters": "Filtres supplémentaires",
+        "configurecolumn": "Configure column",
+        "viewinvoice": "View invoice details",
+        "deliveryto": "Livraison à",
+        "shiptocode": "Code de livraison",
+        "daysdue": "Jours dus",
+        "columnsettings": "Afficher \/ masquer les paramètres",
+        "columnminimumdisplay": "Sélectionnez au minimum 6 colonnes",
+        "clearingdocument": "Document de compensation",
+        "dayspastdue": "Jours de retard",
+        "closingdate": "Date de clôture",
+        "billingtype": "Type de facturation",
+        "deliveryno": "Livraison du distributeur no",
+        "distributordeliverynumber": "Numéro de livraison",
+        "sortby": "Trier par",
+        "accounttypestatement": "Relevé de type de compte",
+        "applyfilters": "Appliquer des filtres",
+        "changePayer": "Changer de payeur",
+        "changeArea": "Changer de zone",
+        "changeAccount": "Changer de compte",
+        "changeSelection": "Modifier la sélection",
+        "rangeaboveoneyear": "Maximum date range: 1 year",
+        "shellbusinesschannel": "Canal d'affaires Shell",
+        "showme": "Montrez-moi",
+        "latestdocument": "Documents les plus récents",
+        "alldocuments": "Tous les documents",
+        "enterdeliverynumber": "Entrez le numéro de livraison",
+        "enterbillingnumber": "Entrez le numéro du document de facturation",
+        "billinglistinfo": "Trouvez des factures, des notes de crédit ou débit et des annulations de facturations.",
+        "noresults": "Aucun résultat trouvé",
+        "nodatamsg": "Il n’y a aucun résultat à afficher",
+        "billingstatus": "",
+        "bilingType": "Type de facturation",
+        "documentCreatedDate": "",
+        "shipToCode": "Code de livraison",
+        "distributorDeliveryNumber": "Numéro de livraison du distributeur",
+        "productType": "Type de produit",
+        "documentCreationDate": "Date de création du document",
+        "date": "Date:"
+    },
+    "changeConfirmModal": {
+        "cancelChange": "Annuler la modification",
+        "saveChange": "Enregistrer les modifications",
+        "goback": "Retour",
+        "saveConfig": "Enregistrer la configuration",
+        "modalTitleProd": "Veuillez confirmer si vous êtes d'accord de modifier la configuration de votre commande?",
+        "modalBodyProd": "Le changement de la configuration de votre commande peut affecter la liste des produits disponibles à l'affichage.",
+        "modalTitleOrder": "Les produits de votre liste ne sont pas enregistrés",
+        "modalBodyOrder": "Tous les produits de votre liste seront supprimés lorsque vous modifierez la configuration de votre commande.",
+        "saveOrder": "Effacer la liste et confirmer la modification",
+        "modalTitleCart": "Vous avez des produits non enregistrés dans votre panier",
+        "modalBodyCart": "Si vous continuez à modifier votre configuration, tout sera supprimé de votre panier.",
+        "saveCart": "Vider le panier et confirmer la modification",
+        "modalTitleContracts": "Les contrats peuvent ne plus s'appliquer si vous continuez",
+        "modalBodyContracts": "Vous avez actuellement un contrat sélectionné.",
+        "modalBodyContractsmsg": "Ces contrats peuvent ne plus s'appliquer lorsque vous modifiez la configuration de votre commande."
+    },
+    "helpsupport": {
+        "title": "Aide et soutien",
+        "get_help_and_support": "Obtenir de l'aide et du soutien",
+        "community_text": "Demandez à la communauté, consultez la FAQ ou faites une demande de service"
+    },
+    "header": {
+        "account": "Comptes",
+        "allAccount": "Tous les comptes",
+        "noOfRecords": "Affichage de {{m}} à {{n}} sur {{o}} comptes",
+        "noResult": "Aucun résultat trouvé",
+        "selected": "sélectionné",
+        "deliveryaddress": "Adresse de livraison",
+        "distributionchannel": "Distribution",
+        "division": "Division",
+        "salesorg": "Organisation des ventes",
+        "login": "Connexion",
+        "register": "enregistrer",
+        "menu": "Menu",
+        "myaccount": "Compte",
+        "basketItem": "Item",
+        "basketItems": "Items",
+        "myAccountLogin": {
+            "title": "Nom du compte",
+            "resetPassword": "Modifier le mot de passe",
+            "manageUser": "Gestion des utilisateurs",
+            "passwordchanged": "Mot de passe modifié avec succès",
+            "logout": "Déconnexion",
+            "myprofile": "Mon profil"
+        },
+        "miniCartCount": {
+            "item": "{{count}} Item",
+            "item_plural": "{{count}} Items"
+        },
+        "customerTitle": "Compte",
+        "customerDetailsTitle": "Informations sur le Compte",
+        "businessCategoryTitle": "Business Category",
+        "placeofDeliveryTitle": "Lieu de livraison",
+        "changeDeliveryLocation": "Changer",
+        "viewMore": "Afficher plus",
+        "deliverylocation": "Adresse de livraison",
+        "deliverfromlocation": "",
+        "customerlocation": "",
+        "producttype": "Type de produit",
+        "configurelocation": "Configurer le lieu de livraison",
+        "location": "Lieu",
+        "favourite": "Marquer comme favori",
+        "alllocation": "Tous les lieux",
+        "searchbylocation": "Recherche par numéro d’emplacement, par société ou par adresse"
+    },
+    "common": {
+        "searchBox": {
+            "placeholder": "Product Search"
+        },
+        "cancel": "Annuler",
+        "delete": "Supprimer",
+        "remove": "Retirer",
+        "edit": "Modifier",
+        "back": "Retour",
+        "submit": "Submit",
+        "continue": "Continuer",
+        "save": "Sauvegarder",
+        "done": "Done",
+        "home": "Accueil",
+        "date": "Date de création",
+        "today": "Aujourd'hui",
+        "latest": "Latest",
+        "all": "Tous",
+        "print": "Imprimer",
+        "download": "Télécharger",
+        "dispute": "Litige",
+        "currency": "GBP",
+        "open": "Ouverte",
+        "moreinfo": "Plus d'information",
+        "lessinfo": "Moins d'information",
+        "clear": "Effacer",
+        "search": "Rechercher",
+        "selectAll": "Sélectionnez tous les",
+        "totalAmount": "Montant total ({{currency}})",
+        "total": "totale",
+        "downloadexcel": "Télécharger (Excel)",
+        "downloadpdf": "Télécharger (PDF)",
+        "viewprint": "Voir\/imprimer",
+        "view": "View",
+        "apply": "PDF",
+        "pdf": "PDF",
+        "excel": "Excels",
+        "excell": "Excel",
+        "merge": "Fusionner au format PDF",
+        "preview": "Aperçu",
+        "filetypes": "Types de fichiers",
+        "exportas": "Exporter en tant que"
+    },
+    "lob": {
+        "distch_division": {
+            "08_03": "Huile",
+            "08_02": "Carburants",
+            "08_07": "Expédition",
+            "03_02": "Carburants",
+            "03_03": "Huile",
+            "02_02": "Carburants",
+            "06_02": "Carburants",
+            "06_05": "GPL",
+            "06_09": "Brut",
+            "14_06": "Conv.Retail",
+            "14_12": "GNL",
+            "13_04": "Bitume",
+            "04_02": "Carburants",
+            "04_03": "Huile",
+            "07_02": "Carburants"
+        },
+        "division": {
+            "02": "Carburants",
+            "03": "Huile",
+            "04": "Bitume",
+            "05": "GPL",
+            "06": "Commerce de proximité",
+            "07": "Expédition",
+            "09": "Brut",
+            "12": "GNL",
+            "14": "Soufre"
+        },
+        "distributionChannel": {
+            "02": "Carburants mondiaux",
+            "03": "Aviation mondiale",
+            "04": "Marine mondiale",
+            "06": "Approvisionnement mondial",
+            "07": "Distribution mondiale",
+            "08": "Lubrifiants mondiaux",
+            "13": "Les spécialités",
+            "14": "Commerce de détail mondial"
+        },
+        "salesorg": {
+            "IN02": "Marchés Shell India",
+            "IN11": "Shell MRPL India",
+            "GB01": "Shell UK Markets",
+            "ID01": "",
+            "DE01": "",
+            "CA48": "",
+            "TR04": "",
+            "US52": "SOPUS Products"
+        }
+    },
+    "user": {
+        "loginForm": {
+            "emailAddress": {
+                "placeholder": "Please enter email address"
+            },
+            "enterValidEmail": "Please make sure your email is entered correctly",
+            "password": {
+                "placeholder": "Please enter password"
+            },
+            "forgotPassword": "Forgotten password?",
+            "signIn": "S'identifier",
+            "dontHaveAccount": "Create An Account",
+            "register": "Register Now"
+        }
+    },
+    "commonTranslation": {
+        "searchBy": "Rechercher par",
+        "date": "Date de création",
+        "Today": "Aujourd'hui",
+        "pastWeek": "Dernière Semaine ",
+        "pastMonth": "Past month",
+        "filters": "Filtres",
+        "between": "between",
+        "downloadexcel": "Télécharger Excel",
+        "showhidecolumn": "Afficher\/masquer les colonnes",
+        "total": "totale",
+        "managecookie": "Modifier les préférences en matière de fichiers témoins"
+    },
+    "createuser": {
+        "title": "Créer un utilisateur",
+        "subtext": "Fournir un accès aux comptes et aux lieux de livraison et configurer leur expérience globale de Shell markethub",
+        "emailLabel": "Saisissez leur adresse électronique",
+        "selectuserlabel": "Sélectionnez un rôle d'utilisateur",
+        "selectuserdesc": "Les super utilisateurs disposent de privilèges d'administration supplémentaires, tels que la création ou la modification d'autres utilisateurs. Vous pouvez modifier les privilèges avant de terminer la création de ce compte.",
+        "superuser": "",
+        "normaluser": "",
+        "prodcutTitle": "2. Type de produit",
+        "productDesc": "Sélectionnez la division avec laquelle cet utilisateur travaillera.",
+        "selectprodtype": "Veuillez sélectionner le type de produit",
+        "division": "",
+        "personalstitle": "1. Détails de l'utilisateur",
+        "accountstitle": "3. Comptes",
+        "deliverytitle": "4. Lieu de livraison",
+        "privilegestitle": "5. Privilèges",
+        "reviewtitle": "Consultez le site",
+        "emailEmpty": "Saisissez leur adresse électronique",
+        "enterValidEmailAddress": "",
+        "selectUserRole": "Veuillez sélectionner un rôle d'utilisateur",
+        "emailTooltip": "Ils utiliseront cette adresse électronique pour se connecter à leur compte.",
+        "selectAtleastOneDelLoc": "",
+        "accountDesc": "Choisissez les comptes auxquels l'utilisateur aura accès.",
+        "selectaccounts": "Sélectionnez le(s) compte(s)",
+        "selectdeliveryloc": "Sélectionnez les adresses de livraison",
+        "accnumheader": "Numéro de compte",
+        "accnameheader": "",
+        "accaddheader": "Adresse du compte",
+        "locnameheader": "Numéro d'emplacement",
+        "delnameheader": "Nom du destinataire",
+        "deladdheader": "",
+        "selectAccMenu": "Sélectionner les comptes",
+        "selectpage1opt": "Sélectionnez les 20 comptes indiqués",
+        "selectall": "",
+        "deselectall": "Désélectionner tout",
+        "viewselectiontxt": "Voir la sélection (0)",
+        "viewmodalheader": "Comptes sélectionnés (20 sur 50)",
+        "viewmodaldelheader": "",
+        "reviewAccountsselData": "",
+        "reviewDeliveryselData": "",
+        "listrowColumn": "#",
+        "userCreateInfoMsg": "Vous créez un ",
+        "accfor": "compte pour",
+        "deliveryDesc": "Sélectionnez les sites auxquels l'utilisateur peut accéder pour organiser des livraisons",
+        "searchdelplaceholder": "Recherche par numéro de compte ou par lieu de livraison",
+        "searchaccPlaceholder": "",
+        "progressbarstep1": "1. Détails",
+        "progressbarstep2": "2. Produits",
+        "progressbarstep3": "3. Comptes",
+        "progressbarstep4": "4. Livraisons",
+        "progressbarstep5": "5. Privilèges",
+        "progressbarstep1mobile": "1. Données personnelles",
+        "progressbarstep2mobile": "2. Type de produit",
+        "progressbarstep4mobile": "4. Détails de la livraison",
+        "progressbarstep5mobile": "5. Rôles et privilèges",
+        "financeusergroup": "Groupe des finances",
+        "privilegesDesc": "Configurez l'expérience de l'utilisateur de Shell MarketHub en sélectionnant son rôle en fonction des tâches communes. Les fonctionnalités disponibles sont détaillées sous chaque rôle.",
+        "setPrivileges": "Définir les privilèges",
+        "privilegesTooltip": "Tooltip Label",
+        "selectAll": "Sélectionnez comptes",
+        "orderPlacer": "",
+        "createAmendOrder": "Ceate\/modifier l'ordonnance",
+        "orderReviewer": "",
+        "viewOrder": "",
+        "searchOrder": "Ordre de recherche",
+        "financeManager": "",
+        "monthlyStatement": "Déclaration mensuelle",
+        "settlementAdvice": "",
+        "accountSummary": "",
+        "billingSupervisor": "",
+        "rollingStatement": "Déclarations continues",
+        "billingDocuments": "",
+        "dfoaReport": "Rapport de remboursement du DFOA",
+        "warehouseManager": "",
+        "deliveryDocs": "",
+        "deliveryTicket": "Bon de livraison",
+        "SalesMarketing": "Responsable des ventes et du marketing",
+        "distributorAcademy": "Académie des distributeurs",
+        "marketingInformation": "Informations sur le marketing",
+        "technicalManager": "",
+        "cardReport": "Rapport sur les cartes",
+        "salesValue": "Valeur des ventes",
+        "salesVolume": "Volume des ventes",
+        "dfaoOrder": "",
+        "dfaoCustomerReport": "Rapport sur les restrictions de clientèle du DFOA",
+        "productReport": "Rapport sur les produits Shell ",
+        "dfaoCreateOrder": "DFOA Créer une commande",
+        "dfaoorderReviewer": "DFOA Contrôleur de la commande",
+        "dfaoEditOrder": "Ordre d'édition du DFOA",
+        "dfaoAmendCancelOrder": "DFOA Modification\/annulation de la commande",
+        "dfaoDeliveryExpert": "",
+        "reviewdesc": "Vérifiez que tous les détails sont corrects et sélectionnez Créer un utilisateur pour terminer la configuration de son compte.",
+        "editText": "Modifier",
+        "fules": "Carburants",
+        "lubricants": "lubrifiants",
+        "emailErrMsg": "Cet utilisateur a déjà un compte avec Shell MarketHub.",
+        "showingUserof": "",
+        "accountfound": "",
+        "with": "",
+        "selectdivision": "",
+        "selectAccountErrorMsg": "",
+        "selectDeliveryErrorMsg": "",
+        "updateEmailWarn": "La mise à jour de l'adresse électronique effacera toutes les informations précédemment saisies pour cet utilisateur et réinitialisera tous ses paramètres.",
+        "updateEmailTitle": "Updating email address will reset information",
+        "updateEmailText": "Tous les détails saisis précédemment seront effacés si vous modifiez l'adresse électronique. Vous devrez ensuite relancer le processus pour créer un nouvel utilisateur.",
+        "understandLabel": "Je comprends",
+        "createUserError": "Sorry, we were unable to create this user account due to a technical issue. Please try again."
+    },
+    "deliverydocuments": {
+        "document": {
+            "title": "Documents de livraison",
+            "setfilters": "Appliquer des filtres",
+            "requestdocument": "Request these documents",
+            "documentno": "Numéro de document",
+            "deliverydocumentno": "Le numéro du document de livraison",
+            "deliverydocumentnomobile": "Delivery Document no",
+            "datecreated": "Date créée",
+            "deliverydate": "Date de livraison",
+            "deliveryTo": "Adresse de livraison",
+            "deliverylocation": "Adresse de livraison",
+            "alllocations": "Tous les lieux",
+            "documenttype": "Type de document",
+            "noresults": "Aucun résultat trouvé",
+            "noresultstext": "Veuillez entrer un numéro de livraison",
+            "nosearchresultsmsg": "Please enter a valid number",
+            "enter": "Enter",
+            "please": "Veuillez",
+            "nodatamsg": "Il n’y a aucun résultat à afficher",
+            "enterdeliverynumber": "Entrez le numéro de livraison",
+            "documentunavailable": "Document non disponible",
+            "ordercreateddate": "Commander de Date création",
+            "nextquarter": "Next quarter",
+            "previousquarter": "Previous quarter",
+            "invoicenumber": "Numéro de facture",
+            "all": "Tous",
+            "deliverylocations": " les lieux de livraison"
+        }
+    },
+    "delivery": {
+        "date": "Date de livraison"
+    },
+    "dfoamodule": {
+        "dfoaModelHeader": "Quitter DFOA",
+        "replenishmentHeader": "Réapprovisionnement des congés",
+        "dfoaModelReplenishmentMsg": "Êtes-vous sûr de vouloir passer à votre espace de travail DFOA ?",
+        "dfoaModelMsg": "Êtes-vous sûr de vouloir passer à votre espace de travail de réapprovisionnement ?",
+        "dfoaValue": "Livrer pour notre compte (DFOA)",
+        "replenishmentValue": "Ordres de réapprovisionnement",
+        "dfoaDeliveryConfirmation": "Delivery Confirmation",
+        "confirmDelivery": "",
+        "distributorDeliveryNumber": "",
+        "distributorDeliveryNumberPlaceholder": "",
+        "distributorDeliveryNumberTooltipMessage": "",
+        "deliveredDate": "",
+        "deliveredDatePlaceholder": "",
+        "applyToAll": "",
+        "numberRequired": "",
+        "dateRequired": "",
+        "qtyRequired": "",
+        "moreInformation": "",
+        "lessInformation": "",
+        "delivery": "",
+        "orderedQty": "",
+        "deliveredQty": "",
+        "confirmDeliveryForOrder": "",
+        "qtyProduct": "",
+        "qtyProduct_plural": "",
+        "materialCode": "",
+        "unit": "",
+        "weight": "",
+        "weightUnit": "",
+        "rejectedItems": "",
+        "exitDeliveryConfirmation": "",
+        "pleaseEnterFutureDate": "",
+        "pleaseEnterPastDate": "",
+        "modals": {
+            "common": {
+                "rejectItem": "",
+                "goBack": "",
+                "continue": ""
+            },
+            "rejectItemModal": {
+                "rejectItemQuestion": "",
+                "rejectItemReasons": {
+                    "M3": "",
+                    "ZJ": "",
+                    "ZE": "",
+                    "ZV": "",
+                    "M2": "",
+                    "ZO": "",
+                    "Z7": ""
+                }
+            },
+            "rejectItemConfirmationModal": {
+                "rejectItemQuestion": ""
+            },
+            "discardChangesModal": {
+                "title": "",
+                "textContent": ""
+            }
+        }
+    },
+    "orderdetails": {
+        "orderNo": ""
+    },
+    "expirypopup": {
+        "exitpopuptitle": "Your session has expired",
+        "sureToExit": "This is due to you being inactive for 30 minutes",
+        "loginAgain": "Please log in again",
+        "okay": "Ok"
+    },
+    "extendtimeoutpopup": {
+        "timeoutWarnpopuptitle": "Your session is about to expire",
+        "bodymsginfo": "You have been inactive for 30 minutes and will be logged out soon",
+        "bodyparainfo": "Would you like to extend the session?",
+        "yesExtend": "Yes, extend session",
+        "noExtend": "No, don't extend"
+    },
+    "financialmodule": {
+        "title": "Finances et documents",
+        "titleinfo": "Trouvez des factures, des relevés et d'autres documents. Ceux-ci sont définis au niveau de votre compte au lieu d’adresses de livraisons particulières.",
+        "accountdescription": "The details below are for the selected 'Account' only and do not take the 'Ordering to' location into consideration.",
+        "account": "Compte :",
+        "refnumber": "Numéro de réference",
+        "nextquarter": "Prochain trimestre",
+        "previousquarter": "Trimestre précédent",
+        "download": "Télécharger",
+        "downloadexcel": "Télécharger (Excel)",
+        "viewprint": "Voir\/imprimer",
+        "showhidecolumn": "Afficher\/masquer les colonnes",
+        "showing": "Affichage {{pageData}}",
+        "of": "sur",
+        "to": "à",
+        "documents": "documents"
+    },
+    "impersonation": {
+        "welcome": "Bonjour,",
+        "lastseen": "Dernière consultation:",
+        "impersonateUser": "Vous êtes actuellement en train de vous faire passer pour",
+        "recentSerches": "Recent searches",
+        "favourite": "Favoris",
+        "impersonate": "se faire passer pour ce client",
+        "userType": "User type",
+        "userStatus": "User status",
+        "exitImpersonation": "Quitter la session",
+        "sureToExit": "Are you sure you want to exit this session?",
+        "sureToExitSessionRemoveCartMsg": "Avez-vous ajouté des articles au panier ?",
+        "returnImpersonation": "",
+        "alertNotificationMsg": "N'oubliez pas de retirer les articles que vous avez ajoutés au panier",
+        "exitImpSessionCartConfirm": "Quitter la session",
+        "exitImpSessionCartCheck": "Retournez-y et retirez"
+    },
+    "0": {
+        "code": "ordermanagementgroup",
+        "name": "Enregistrement des commandes",
+        "selected": "false",
+        "disabled": "",
+        "options": [
+            {
+                "name": "Ceate\/modifier l'ordonnance",
+                "tooltip": "Passer les commandes et apporter les modifications nécessaires."
+            }
+        ]
+    },
+    "1": {
+        "code": "orderreviewergroup",
+        "name": "Contrôleur de la commande",
+        "selected": "false",
+        "disabled": "",
+        "options": [
+            {
+                "name": "Voir la commande",
+                "tooltip": "Afficher les détails de la commande uniquement. Pas de possibilité de mettre à jour les commandes."
+            },
+            {
+                "name": "Ordre de recherche",
+                "tooltip": "Recherche de commandes. Pas de possibilité de mettre à jour les commandes."
+            }
+        ]
+    },
+    "2": {
+        "code": "financeusergroup",
+        "name": "Responsable des finances",
+        "selected": "false",
+        "disabled": "",
+        "options": [
+            {
+                "name": "Déclaration mensuelle",
+                "tooltip": "Consulter les relevés mensuels contenant les détails des factures et des crédits."
+            },
+            {
+                "name": "Conseils en matière d'établissement",
+                "tooltip": "Accédez aux détails comptables quotidiens de ce que Shell va prélever sur votre compte bancaire."
+            },
+            {
+                "name": "Kontoübersicht",
+                "tooltip": "Consultez les informations sur le solde du compte, le crédit disponible et le dernier paiement effectué."
+            }
+        ]
+    },
+    "3": {
+        "code": "billingsupervisorgroup",
+        "name": "Responsable de la facturation",
+        "selected": "false",
+        "disabled": "",
+        "options": [
+            {
+                "name": "Déclarations continues",
+                "tooltip": "Visualisez un relevé basé sur la date qui vous permet de choisir l'ouverture"
+            },
+            {
+                "name": "Documents de facturation",
+                "tooltip": "Visualisez les débits et les crédits qui sont placés sur votre compte en fonction de votre activité récente."
+            },
+            {
+                "name": "Rapport de remboursement du DFOA",
+                "tooltip": "Accédez à un rapport qui ne montre que les notes de crédit du DFOA."
+            }
+        ]
+    },
+    "4": {
+        "code": "warehousemgrusergroup",
+        "name": "Gestionnaire d'entrepôt",
+        "selected": "false",
+        "disabled": "",
+        "options": [
+            {
+                "name": "Documents de livraison",
+                "tooltip": "Accédez aux enregistrements de livraison tels que les bons de livraison ou les avis d'expédition avancés."
+            },
+            {
+                "name": "Bon de livraison",
+                "tooltip": "Voir les notifications ePOD."
+            }
+        ]
+    },
+    "5": {
+        "code": "salesmarketingusergroup",
+        "name": "Directeur des ventes et du marketing",
+        "selected": "false",
+        "disabled": "",
+        "options": [
+            {
+                "name": "Académie des distributeurs",
+                "tooltip": "Accéder à une zone de formation où les distributeurs peuvent en apprendre davantage sur les produits Shell."
+            },
+            {
+                "name": "Informations sur le marketing",
+                "tooltip": "Obtenez des informations pertinentes et à jour sur les campagnes de marketing local de Shell."
+            }
+        ]
+    },
+    "6": {
+        "code": "techmanagergroup",
+        "name": "Directeur technique",
+        "selected": "false",
+        "disabled": "",
+        "options": [
+            {
+                "name": "Rapport sur les cartes",
+                "tooltip": "Visualiser tous les débits de carte qui ont été effectués dans une station de détail."
+            },
+            {
+                "name": "Valeur des ventes",
+                "tooltip": "Obtenir un résumé de la valeur des produits achetés pour une période spécifique"
+            },
+            {
+                "name": "Volume des ventes",
+                "tooltip": "Obtenez un résumé de la quantité de produits achetés pour une période donnée"
+            }
+        ]
+    },
+    "7": {
+        "code": "dfoaorderplacergroup",
+        "name": "Enregistrement des commandes",
+        "selected": "true",
+        "disabled": "",
+        "options": [
+            {
+                "name": "Rapport sur les restrictions de clientèle du DFOA",
+                "tooltip": "Accédez à une liste de clients qui n'autorisent pas les commandes 'après événement' par un distributeur."
+            },
+            {
+                "name": "Rapport sur les produits Shell ",
+                "tooltip": "Accéder à la liste des produits de l'entrepôt nécessaires pour servir les clients de Shell."
+            },
+            {
+                "name": "DFOA Créer une commande",
+                "tooltip": "Le distributeur peut passer des commandes pour les clients finaux de Shell. Disponible uniquement aux États-Unis et au Canada."
+            }
+        ]
+    },
+    "8": {
+        "code": "dfoaorderreviewer",
+        "name": "DFOA Contrôleur de la commande",
+        "selected": "false",
+        "disabled": "",
+        "options": [
+            {
+                "name": "Ordre d'édition du DFOA",
+                "tooltip": "Apporter des modifications mineures aux commandes créées par un autre utilisateur pour un client final."
+            },
+            {
+                "name": "DFOA Modification\/annulation de la commande",
+                "tooltip": "Modifier ou annuler les commandes qui ont été créées pour un client final."
+            }
+        ]
+    },
+    "9": {
+        "code": "dfoaexpertdeliverygroup",
+        "name": "Expert en livraison de DFOA",
+        "selected": "false",
+        "disabled": "",
+        "options": [
+            {
+                "name": "DFOA Voir\/Confirmer la commande",
+                "tooltip": "Confirmer les livraisons effectuées pour le compte de Shell."
+            }
+        ]
+    },
+    "10": {
+        "code": "pricing",
+        "name": "Price viewer",
+        "selected": "false",
+        "disabled": "",
+        "options": [
+            {
+                "name": "Voir les prix",
+                "tooltip": "Consultez les prix de tous les produits."
+            }
+        ]
+    },
+    "11": {
+        "code": "5",
+        "name": "Haute direction - Finance"
+    },
+    "12": {
+        "code": "7",
+        "name": "Haute direction - Logistique \/ Entreposage \/ Chaine d'approvisionnement"
+    },
+    "13": {
+        "code": "2",
+        "name": "Haute direction - Opérations"
+    },
+    "14": {
+        "code": "9",
+        "name": "Haute direction - Autre"
+    },
+    "15": {
+        "code": "3",
+        "name": "Haute direction - Acquisition"
+    },
+    "16": {
+        "code": "6",
+        "name": "Haute direction - Securité \/ Viabilité"
+    },
+    "17": {
+        "code": "8",
+        "name": "Haute direction - Ventes et Marketing"
+    },
+    "18": {
+        "code": "4",
+        "name": "Haute direction - Technique \/ Ingénierie"
+    },
+    "19": {
+        "code": "23",
+        "name": "Distributeur Shell - Logistique \/ Entreposage \/ Chaine d'approvisionnement"
+    },
+    "20": {
+        "code": "22",
+        "name": "Distributeur Shell - Directeur Marketing"
+    },
+    "21": {
+        "code": "18",
+        "name": "Distributeur Shell - Propriétaire"
+    },
+    "22": {
+        "code": "19",
+        "name": "Distributeur Shell - Directeur des Ventes"
+    },
+    "23": {
+        "code": "20",
+        "name": "Distributeur Shell - Représentant commercial"
+    },
+    "24": {
+        "code": "21",
+        "name": "Distributeur Shell - Technique"
+    },
+    "25": {
+        "code": "26",
+        "name": "Station-Service Shell - Personnel de station"
+    },
+    "26": {
+        "code": "24",
+        "name": "Station-Service Shell - Détaillant"
+    },
+    "27": {
+        "code": "25",
+        "name": "Station-Service Shell - Gerant de station"
+    },
+    "28": {
+        "code": "39",
+        "name": "Hypermarché"
+    },
+    "29": {
+        "code": "37",
+        "name": "Atelier \/ Garage Indépendant"
+    },
+    "30": {
+        "code": "67",
+        "name": "Macro Distributeur"
+    },
+    "31": {
+        "code": "49",
+        "name": "Fabrication - Automobile"
+    },
+    "32": {
+        "code": "51",
+        "name": "Fabrication - Aliments"
+    },
+    "33": {
+        "code": "50",
+        "name": "Fabrication - Général"
+    },
+    "34": {
+        "code": "55",
+        "name": "Fabrication - Autre"
+    },
+    "35": {
+        "code": "53",
+        "name": "Fabrication - Papier et Pâte"
+    },
+    "36": {
+        "code": "52",
+        "name": "Fabrication - Pharmaceutique"
+    },
+    "37": {
+        "code": "54",
+        "name": "Fabrication - Plastiques"
+    },
+    "38": {
+        "code": "13",
+        "name": "Marine - Bulker \/ Barge \/ Frigorifique \/ Citerne"
+    },
+    "39": {
+        "code": "17",
+        "name": "Marine - Croisière"
+    },
+    "40": {
+        "code": "11",
+        "name": "Marine - Dragage"
+    },
+    "41": {
+        "code": "15",
+        "name": "Marine - Ferry"
+    },
+    "42": {
+        "code": "14",
+        "name": "Marine - Pêche"
+    },
+    "43": {
+        "code": "12",
+        "name": "Marine - Marchandises Générales Diverses "
+    },
+    "44": {
+        "code": "18",
+        "name": "Marine - Services Portuaires"
+    },
+    "45": {
+        "code": "16",
+        "name": "Marine - Paquebot \/ Conteneur"
+    },
+    "46": {
+        "code": "19",
+        "name": "Marine - Secteur Manufacturier"
+    },
+    "47": {
+        "code": "10",
+        "name": "Marine - Navy \/ CG \/ Défense"
+    },
+    "48": {
+        "code": "21",
+        "name": "Marine - Autre"
+    },
+    "49": {
+        "code": "20",
+        "name": "Marine - Trader"
+    },
+    "50": {
+        "code": "30",
+        "name": "Minier"
+    },
+    "51": {
+        "code": "41",
+        "name": "Magasin des pièces et accessoires automobiles"
+    },
+    "52": {
+        "code": "61",
+        "name": "Huile et Gaz"
+    },
+    "53": {
+        "code": "71",
+        "name": "Autre"
+    },
+    "54": {
+        "code": "46",
+        "name": "Gaz"
+    },
+    "55": {
+        "code": "45",
+        "name": "HFO"
+    },
+    "56": {
+        "code": "42",
+        "name": "Énergie - Producteur Énergétique Indépendant"
+    },
+    "57": {
+        "code": "47",
+        "name": "Énergie - Autre"
+    },
+    "58": {
+        "code": "43",
+        "name": "Énergie - Solaire"
+    },
+    "59": {
+        "code": "44",
+        "name": "Énergie - Éolienne"
+    },
+    "60": {
+        "code": "31",
+        "name": "Extraction"
+    },
+    "61": {
+        "code": "62",
+        "name": "Ferroviaire"
+    },
+    "62": {
+        "code": "68",
+        "name": "Revendeur"
+    },
+    "63": {
+        "code": "70",
+        "name": "Agent de Shell (pour le modèle Japonais)"
+    },
+    "64": {
+        "code": "57",
+        "name": "Commerce de détail Shell - Appartenant à Shell"
+    },
+    "65": {
+        "code": "56",
+        "name": "Commerce de détail Shell - Appartenant au Détaillant"
+    },
+    "66": {
+        "code": "58",
+        "name": "Commerce de détail Shell - Marchés licenciés"
+    },
+    "67": {
+        "code": "32",
+        "name": "Acier"
+    },
+    "68": {
+        "code": "59",
+        "name": "Technologie (comme Microsoft\/Google\/Amazon sous Comptes Entreprise au futur)"
+    },
+    "69": {
+        "code": "60",
+        "name": "Utilité (electricité, eau, gaz, etc.)"
+    },
+    "70": {
+        "code": "69",
+        "name": "Grossiste"
+    },
+    "invoicedetails": {
+        "title": "Facture",
+        "vieworder": "Voir la commande",
+        "invoiceoverview": "Vue d'ensemble",
+        "account": "Compte :",
+        "payer": "Payeur:",
+        "deliverylocation": "Lieu de livraison:",
+        "documentnumber": "Numéro de document",
+        "billingdocumentnumber": "Numéro du document de facturation",
+        "paymentterms": "Payment terms:",
+        "ponumber": "N˚ de bon de commande",
+        "createddate": "Date de création",
+        "billingdate": "Date de facturation",
+        "duedate": "Date d'échéance",
+        "deliverylink": "Voir les documents de livraison",
+        "backtobillingdocuments": "Retour aux documents de facturation",
+        "backtorollingstatements": "",
+        "viewotherinvoices": "Voir les autres factures",
+        "go": "Aller",
+        "ordersummary": {
+            "title": "Détails de commande",
+            "product": "Produits",
+            "netlable": "Montant net¹",
+            "Taxlable": "Taxe",
+            "total": "Total²",
+            "point1": "1. Comprend la surtaxe, les droits d'accise et \/ ou les frais environnementaux (le cas échéant)",
+            "point2": "2. Taxes comprises",
+            "point3": "3. Excludes taxes, surcharges and includes Excise Duties",
+            "aboutprice": "Les prix de chaque produit comprennent les taxes, les surtaxes et les droits d’accise."
+        },
+        "producttitle": "Produits",
+        "viewdocuments": "Voir les documents de livraison",
+        "productdetails": {
+            "index": "#",
+            "ordernumber": "Numéro de commande",
+            "orderno": "Numéro de commande",
+            "productcode": "Code produit",
+            "productdescription": "Description du produit",
+            "quantity": "Quantité",
+            "unitofmeasure": "Unité de mesure",
+            "netprice": "Prix net  ({{currency}})",
+            "netvalue": "Prix net  ({{currency}})"
+        },
+        "buttons": {
+            "downloadtitle": "Télécharger",
+            "printtitle": "Imprimer",
+            "dispute": "Litige"
+        },
+        "0": {
+            "label": "Finances et documents",
+            "link": ".\/",
+            "sublink": [
+                {
+                    "label": "Facture",
+                    "link": ""
+                }
+            ]
+        }
+    },
+    "landingpage": {
+        "shipByTitle": ""
+    },
+    "manageuser": {
+        "title": "Gestion des utilisateurs",
+        "accno": "Numéro de compte:",
+        "searchPlaceholder": "Recherche par nom, numéro de compte ou adresse électronique",
+        "manageUsers": "Gestion des utilisateurs",
+        "userfound": "{{totalUsers}} utilisateurs",
+        "viewdetails": "Voir les détails",
+        "superUser": "Super utilisateur",
+        "multitasker": "Multi-tâches",
+        "active": "Actif",
+        "inactive": "Inactif",
+        "userWithSearchTerm": "{{result}} Utilisateurs trouvés pour  {{searchTerm}}",
+        "noResultsFound": "Aucun utilisateur trouvé avec {{searchTerm}}",
+        "searchBy": "Vous pouvez effectuer une recherche par nom, numéro de compte ou adresse électronique",
+        "alternate": "Vous pouvez également afficher",
+        "viewallusers": "tous les utilisateurs",
+        "changeuserstatus": "Modifier le statut de l'utilisateur",
+        "deactive": "Désactiver",
+        "savechanges": "Enregistrer la modification",
+        "cancel": "Annuler",
+        "activeTooltip": "Les utilisateurs actifs peuvent se connecter et accéder au ShellMarket Hub.",
+        "deactivateTooltip": "La désactivation du compte d'un utilisateur met fin à son accès à Shell MarketHub.Vous pouvez réinitialiser leur compte à Active à tout moment.",
+        "userAccountLocked": "Le compte de cet utilisateur a été verrouillé",
+        "unlocknow": " Déverrouiller le compte de l’utilisateur.",
+        "unlockSuccess": "Ce compte est maintenant déverrouillé.",
+        "showingUser": "Showing {{filterd}} of {{total}} users",
+        "createuser": "",
+        "userCreatedMsg": "User account created. Once processed, it will be listed here and {{firstname}} {{lastname}} will receive a welcome email.",
+        "superUserCreatedMsg": "Super user account created. Once processed, it will be listed here and {{firstname}} {{lastname}}  will receive a welcome email."
+    },
+    "ordermanagement": {
+        "refnumber": "",
+        "products": "",
+        "orders": ""
+    },
+    "pagination": {
+        "showing": "Affichage",
+        "of": "de",
+        "documents": " document sur"
+    },
+    "productdocuments": {
+        "title": "Documents relatifs aux produits",
+        "doctype": "Type de document",
+        "subtext": "Trouver et télécharger des documents sur les produits. ",
+        "coa": "Certificat d'analyse",
+        "tds": "Fiche technique (TDS)",
+        "tdsmobile": "Technical data sheet",
+        "msds": "Fiche de données de sécurité (MSDS)",
+        "msdsmobile": "",
+        "inputplaceholder": "Recherche à l'aide du numéro d'article ou du nom du produit",
+        "materialnumber": "Code du produit",
+        "batchnumber": "Numéro de lot",
+        "required": "(obligatoire)",
+        "productname": "Nom du produit",
+        "matprodname": "Code article ou nom du produit",
+        "matprodnamereq": "Veuillez entrer un numéro de produit ou un nom de produit.",
+        "matnumreq": "Code article est requis",
+        "batnumreq": "Le numéro de lot est requis",
+        "matprodnameerror1": "Please enter valid material code\/Product number",
+        "validmatcode": "Please enter a valid Material Code",
+        "validbatnum": "Please enter a valid Batch Number",
+        "noresult": "Il n’y a aucun résultat à afficher",
+        "noresultfor": "Pas de résultat pour \"{{matNum}}\" ",
+        "and": "and",
+        "noresultforand": "Pas de résultat pour \"{{matNum}}\" and \"{{batNum}}\"",
+        "novalidatemsg": "Aucun résultat trouvé",
+        "resfound": " résultats trouvés",
+        "novalidatemsgEnter": "Veuillez trier selon les options",
+        "search": "Rechercher",
+        "download": "Télécharger",
+        "viewprint": "Voir\/imprimer",
+        "productdescription": "Description du produit",
+        "noresultinfomsg": "S'il vous plaît, vérifiez et essayez à nouveau",
+        "entermaterialcode": "Entrez le Numéro du produit",
+        "enterbatchnumber": "Entrez le numéro de lot",
+        "entermaterialcodeproductname": "Enter material code\/Product name here",
+        "matcodetooltip": "Material code tooltip",
+        "batchnumbertooltip": "Batch number tooltip",
+        "documentno": "Document de livraison no",
+        "ordercreatedate": "Date de Commande créé ",
+        "deliverydate": "Date de livraison",
+        "deliverylocation": "Lieu de livraison",
+        "docunavailable": "Document non disponible",
+        "alertPopupmsg": "Visitez notre section Aide et soutien pour demander ce document\n",
+        "resultsFoundText": "{{resNum}} results found"
+    },
+    "profile": {
+        "profiletext": "Profil",
+        "name": "Nom",
+        "firstname": "Prénom",
+        "lastname": "Nom de famille",
+        "locationinformation": "Informations sur le lieu",
+        "country": "Pays",
+        "language": "Langue",
+        "timezone": "Fuseau horaire",
+        "role": "Rôle",
+        "industry": "Secteur d’activité",
+        "jobtitle": "Titre de l’emploi",
+        "linkedinprofile": "Profil LinkedIn",
+        "linkedinprofileoptional": "Profil LinkedIn (Facultatif)",
+        "contactdetails": "Coordonnées",
+        "mobilephone": "Téléphone portable",
+        "mobilephoneoptional": "Mobile (Facultatif)",
+        "officephone": "Téléphone de service",
+        "officephoneoptional": "Téléphone de service (Facultatif)",
+        "countrycode": "Code pays",
+        "faxphone": "Numéro de fax",
+        "faxphoneoptional": "Numéro de fax (Facultatif)",
+        "preferredcontactmethod": "Méthode de contact préférée",
+        "communicationpreference": "Préférences de communication",
+        "notifications": "Notifications de commandes",
+        "notifywhenorder": "Notifier la commande :",
+        "email": "Adresse e-mail",
+        "sms": "Téléphone",
+        "marketingpreferences": "Préférences en matière de marketing",
+        "MarketingCommunications": "Pouvons-nous vous contacter au sujet de produits et de services qui pourraient vous intéresser ?",
+        "ThirdPartyDataShare": "Pouvons-nous vous contacter de la part de nos partenaires tiers au sujet de produits et services qui pourraient vous intéresser ?",
+        "editpreference": "Modification des préférences",
+        "lastLoggedIn": "Dernière connexion",
+        "accountNo": "Numéro de compte",
+        "requestForErasure": "Demande d'annulation",
+        "superuser": "Super utilisateur",
+        "personaldetails": "Données personnelles",
+        "editpersonaldetails": "Modifier les détails personnels",
+        "editprofile": "Modification des détails",
+        "editpreferences": "Modification des préférences",
+        "editcommunicationpreference": "Modification des préférences de communication",
+        "ordernotification": "Notifications de commande",
+        "mobilephonenumber": "Numéro de téléphone mobile",
+        "ordernotificationoption": "Options de notification des commandes",
+        "selectall": "Sélectionner tout",
+        "notprovided": "Non fourni",
+        "notverified": "Non vérifié",
+        "verified": "Vérifié",
+        "Notify_confirmed_11": "Confirmée",
+        "Notify_Cancelled_88": "Annulée",
+        "Notify_Delivered_04": "Livrée",
+        "Notify_Invoiced_06": "Facturé",
+        "Notify_Delayed_99": "Retardée",
+        "Notify_Have_Delivery_Date_00": "Date de livraison confirmée",
+        "Notify_Loaded_02": "En route",
+        "Notify_1_Day_Away_01": "Un jour de retard ",
+        "Notify_2_Hour_Away_03": "À 2 heures de route",
+        "emailAndSMS": "Courriel et SMS",
+        "onlyemail": "Courriel",
+        "onlysms": "SMS",
+        "donotnotify": "Ne pas notifier",
+        "false": "Non",
+        "true": "Oui",
+        "please": "S'il vous plaît",
+        "entermobnumber": "Entrez votre numéro de téléphone mobile",
+        "receivesmsnotification": "afin de recevoir des notifications par SMS",
+        "mobileverify": "Vérifiez votre numéro de téléphone mobile",
+        "na": "N\/A",
+        "INT": "Courriel",
+        "PAG": "SMS",
+        "PRT": "Imprimante",
+        "RFC": "Remote Function Call",
+        "RML": "Remote Mail",
+        "SSF": "Secure Store & Forw.",
+        "TEL": "Téléphone",
+        "TLX": "Télex",
+        "TTX": "Télétex",
+        "URI": "URL (Homepage)",
+        "VIS": "Sales call",
+        "X40": "X.400",
+        "enteryourmobileno": "Entrez votre numéro de téléphone mobile",
+        "providenotification": "Donnez-nous votre numéro de téléphone mobile afin de recevoir des notifications par SMS.",
+        "mobile": "Mobile",
+        "continue": "Continuer",
+        "selectcountry": "Veuillez sélectionner le bon code pays et fournir un numéro de téléphone portable valide.",
+        "verifynumber": "Vérifiez votre numéro de téléphone mobile",
+        "sentotpnumber": "Nous avons envoyé un code à usage unique au Entrez-le ci-dessous pour vérifier votre numéro de téléphone mobile.",
+        "invalidcode": "Ce code n'est pas valide ou il a expiré. Veuillez réessayer ou renvoyer le code d'accès.",
+        "entercode": "Entrez le code",
+        "resendpasscode": "Renvoyer le code d'accès",
+        "verifyyournumber": "Vérifiez votre numéro de téléphone mobile",
+        "toreceivesmsnotification": "Pour recevoir des notifications par SMS, vérifiez d'abord votre numéro avec un code d'accès sécurisé. Vérifiez que vos coordonnées sont exactes et demandez votre code d'accès ci-dessous.",
+        "sendpasscode": "Envoyer le code d'accès",
+        "checkyourphone": "Vérifiez votre téléphone",
+        "confirm": "Confirmer",
+        "selectcorrectcountry": "Veuillez sélectionner le bon code pays et fournir un numéro de téléphone portable valide.",
+        "notificationnotsupporting": "Les notifications sont toutes réglées sur le courrier électronique. Nous ne sommes pas encore en mesure d'envoyer des mises à jour par SMS aux clients de votre pays.",
+        "mobilenoerrormsg": "S'il vous plaît saisissez votre numéro de portable",
+        "ext": "ext",
+        "phoneext": "Ext.",
+        "timezonetooltip": "timezone tooltip",
+        "languagetooltip": "Votre expérience Shell MarketHub sera définie dans cette langue.",
+        "roletooltip": "Choisissez un secteur d’activité qui représente le mieux l'entreprise pour laquelle vous travaillez.",
+        "jobtitletooltip": "Sélectionnez un titre de poste qui représente le mieux votre travail quotidien.",
+        "linkedintooltip": "Développez votre réseau professionnel en partageant votre profil LinkedIn.",
+        "mobiletooltip": "Nous l'utiliserons comme sécurité supplémentaire si vous vous connectez depuis un nouveau lieu. Vous pouvez également choisir de recevoir les mises à jour des commandes directement sur votre téléphone cellulaire.",
+        "preferedmethodtooltip": "Nous l'utiliserons pour vous contacter au sujet de toute question ou problème concernant votre compte.",
+        "enterfirstname": "Entrez votre prénom",
+        "enterlastname": "Entrez votre nom de famille",
+        "selectlangauge": "Sélectionnez votre langue",
+        "selecttimezone": "Sélectionnez votre fuseau horaire",
+        "selectindustry": "Sélectionnez votre secteur d'activité",
+        "selectjobtitle": "Entrez votre titre d’emploi",
+        "enterlessthan40": "Maximum de 40 caractères autorisés",
+        "pleaseverifyphone": "veuillez ajouter votre numéro de téléphone",
+        "profilesaved": "Vos données personnelles ont été mises à jour.",
+        "profilerror": "Désolé, nous n'avons pas pu enregistrer vos modifications en raison d'un problème technique. Veuillez réessayer.",
+        "profilerrormmobile": "Désolé, nous n'avons pas pu enregistrer vos modifications en raison d'un problème technique. Veuillez réessayer.",
+        "prefSaved": "Vos préférences ont été mises à jour.",
+        "userRole": "Rôle de l'utilisateur",
+        "userPrivilages": "Privilèges des utilisateurs",
+        "userStatus": "Statut de l'utilisateur",
+        "superUserTooltip": "Les super-utilisateurs peuvent vous aider à résoudre les problèmes d'accès à votre compte. Vous pouvez les contacter à l'adresse {{superuserid}}",
+        "userRoleToolTip": "Ceci décrit le type d'accès au compte dont vous disposez. Ce sera soit en tant que super utilisateur, soit en tant qu'utilisateur normal.",
+        "privilageToolTip": "Un utilisateur disposera de différentes actions (ou privilèges) en fonction de son rôle professionnel.",
+        "userStatusToolTip": "Cela indique si un utilisateur est actif ou si son compte a été désactivé.",
+        "normaluser": "Utilisateur normal",
+        "multitasker": "Multi-tâches",
+        "financeusergroup": "Utilisateur financier",
+        "ordermanagementgroup": "Enregistrement des commandes",
+        "none": "Aucun",
+        "passcodesent": "Nous avons envoyé un code à usage unique au",
+        "enterpasscode": "Entrez-le ci-dessous pour vérifier votre numéro de téléphone mobile.",
+        "enteryourpasscode": "Veuillez entrer votre code d'accès",
+        "newpasscodesent": "Nouveau code d'accès envoyé",
+        "mobilenoverified": "Votre numéro de portable a été vérifié.",
+        "passcodeinvalid": "Nous ne sommes pas en mesure de vérifier ce numéro. Il est soit associé à un autre utilisateur, soit le mot de passe est incorrect. Veuillez réessayer ou revenir en arrière pour modifier votre numéro.",
+        "notificationnotsupports": "Les notifications sont toutes réglées sur le courrier électronique. Nous ne sommes pas encore en mesure d'envoyer des mises à jour par SMS aux clients de votre pays.",
+        "successfullyadded": "Numéro de mobile ajouté avec succès.",
+        "select": "Sélectionnez",
+        "selectCountryForm": "Sélectionnez votre pays",
+        "saveChangesheader": "Enregistrer la modification",
+        "msgOverlaytitle": "Veuillez enregistrer ou annuler vos modifications avant de quitter cette page.",
+        "okayonPrompt": "Ok",
+        "optional": "(Facultatif)",
+        "selectcountrycode": "Veuillez sélectionner le code du pays",
+        "entermobilenumber": "Veuillez ajouter un numéro de téléphone",
+        "userStatusUpdated": "Le statut de l'utilisateur a été mis à jour.",
+        "deactivated": "Désactivé",
+        "change": "Changer",
+        "edittxt": "",
+        "personalstitle": "",
+        "noSuperUserTooltip": "Les super-utilisateurs peuvent vous aider à résoudre les problèmes d'accès à votre compte. Vous pouvez les contacter à l'adresse suivante",
+        "userDetailsInfo": "This information helps us to personalise their Shell MarketHub experience. They can amend this information at any time by editing their profile.",
+        "extoptional": "Ext. (Facultatif)"
+    },
+    "proofofdelivery": {
+        "title": "Demander une preuve de livraison",
+        "description": "Here are your deliveries that don't have proof of delivery documents",
+        "raiserequest": "Faire une demande",
+        "descriptionone": "Below is the list of delevieries that",
+        "descriptiontwo": "do not have Proof of Delivery Documents.",
+        "descriptionthree": "Please select one or more deliveries to raise a 'Service Request' to locate the Proof of Delivery.",
+        "deliverydocumentrequested": "Requested proof of delivery documents."
+    },
+    "quickorder": {
+        "headertitle": "Commande rapide",
+        "headernote": "Commandez plusieurs produits à la fois en utilisant les champs ci-dessous. Pour les produits contractuels, utilisez la page des contrats. ",
+        "contractPageLable": "page des contrats.",
+        "inputplaceholder": "Entrez le nom du produit ou le code du matériel...",
+        "addproductstitle": "Ajouter des produits",
+        "hashlabel": "#",
+        "productlabel": "produit",
+        "producteachlabel": "unité",
+        "quantitylabel": "Quantité",
+        "salesunitlabel": "Unité de vente",
+        "materialcode": "Code matériel11:",
+        "orderconflict": "Quick order conflict",
+        "moreinformation": "Plus d'informations",
+        "volumelabel": "volume",
+        "weightlabel": "Poids",
+        "reset_popup-content": "Are you sure you want to reset your list? By confirming you will lose all the products in your list.",
+        "resetproductbtn": "Effacer la liste et recommencer?",
+        "savequickorderbtn": "Enregistrer cette liste",
+        "addproductsbtn": "Ajouter des produits au panier",
+        "noSearchResult": "Aucun produit trouvé. Veuillez essayer un autre terme de recherche.",
+        "inlineError": "Veuillez remplir les champs ci-dessus avant de continuer.",
+        "0": {
+            "label": "Commande rapide",
+            "link": ""
+        }
+    },
+    "buttons": {
+        "prouct-clear": "Add product and clear list",
+        "continue": "Continuer sans produit",
+        "reset_quick-order": "Reset quick order list",
+        "cancel": "Annuler",
+        "decline-replacement": "Refuser le remplacement",
+        "accept-replacement": "Accepter le remplacement",
+        "replaement-product": "Produit de remplacement",
+        "view-saved-orders": "View saved orders"
+    },
+    "errors": {
+        "main-error": "There is 1 issue to resolve on this page before continuing.",
+        "table-productlist": "This product does not exist, please check the search term used."
+    },
+    "rollingstatements": {
+        "title": "Déclarations glissantes",
+        "displayingentries": "Affichage des entrées pour l'entité Shell : ",
+        "displayingcurrency": "MonÃ©taire:",
+        "doctype": "Type de document",
+        "coa": "Certificat d'analyse",
+        "tds": "Fiche technique (TDS)",
+        "tdsmobile": "Fiche technique",
+        "msds": "Fiche de données de sécurité (MSDS)",
+        "materialnumber": "Code du produit",
+        "batchnumber": "Numéro de lot",
+        "productname": "Nom du produit",
+        "matprodname": "Code article ou nom du produit",
+        "matprodnamereq": "Veuillez entrer un numéro de produit ou un nom de produit.",
+        "matnumreq": "Code article est requis",
+        "batnumreq": "Le numéro de lot est requis",
+        "matprodnameerror1": "Veuillez entrer un numéro de produit ou un nom de produit valide.",
+        "noresult": "Il n’y a aucun résultat à afficher",
+        "search": "Rechercher",
+        "download": "Télécharger",
+        "viewprint": "Voir\/imprimer",
+        "productdescription": "Description du produit",
+        "noresultinfomsg": "Please check if you have entered the correct information",
+        "entermaterialcode": "Entrez le Numéro du produit",
+        "enterbatchnumber": "Entrez le numéro de lot",
+        "entermaterialcodeproductname": "Entrez le nom du produit ou le code du matériel...",
+        "matcodetooltip": "Material code tooltip",
+        "batchnumbertooltip": "Batch number tooltip",
+        "totalamountusd": "Montant total (USD)",
+        "openitemsbydate": "Éléments ouverts à la date",
+        "date": "Date:",
+        "billingDate": "Date de facturation",
+        "billingType": "Type de facturation",
+        "totalAmount": "Montant total ({{currency}})",
+        "refDocnumber": "Numéro de référence",
+        "text": "Texte",
+        "dueDate": "date déchéance",
+        "shipToCode": "Code dexpédition",
+        "daysDue": "Jours déchéance",
+        "clearingDocument": "Clearing document",
+        "daysPastDue": "Jours de retard",
+        "clearingDate": "Date de compensation",
+        "paymentMethod": "Mode de paiement",
+        "soldToCode": "Code vendu",
+        "documentType": "Type de document",
+        "documentNumber": "Numéro de la facture",
+        "action": "Mesures à prendre",
+        "companyCode": "Code d’entreprise",
+        "columnsSelected": "colonnes sélectionnées",
+        "chooseColumns": "Choisir les colonnes"
+    },
+    "rollingstatementsExcel": {
+        "soldTo": "Compte",
+        "soldToName": "Vendu au nom",
+        "shipTo": "Livraison Ã",
+        "shipToName": "Nom et adresse du destinataire",
+        "refNum": "Numéro de référence",
+        "poNum": "NumÃ©ro de bon de commande",
+        "billingDoc": "Documents de facturation",
+        "billingType": "Type de facturation",
+        "disputeTag": "Étiquette de litige",
+        "billingDate": "Date de facturation",
+        "paymentRef": "Mode de paiement",
+        "dueDate": "date d échéance",
+        "daysDue": "Jours d échéance",
+        "daysPastDue": "Jours de retard",
+        "totalAmt": "Montant total",
+        "clearingDoc": "Document de compensation",
+        "clearingDate": "Date de compensation",
+        "text": "Texte",
+        "openItem": "Articles ouverts à la date",
+        "agingInt": "Intervalle de vieillissement",
+        "total": "Total",
+        "payerNum": "Numéro d'identification du payeur",
+        "company": "Entreprise",
+        "currency": "MonÃ©taire: ",
+        "totale": "- Total: ",
+        "all": "Tous",
+        "CLOSED": "Fermé",
+        "OPEN": "Articles ouverts à la date",
+        "agingInt1": "Dû Total",
+        "agingInt2": "Dû Total à  venir",
+        "agingInt3": "Retard de 1 à 30 jours",
+        "agingInt4": "Retard de 31 à 60 jours",
+        "agingInt5": "Retard de 61 à 90 jours",
+        "agingInt6": "Retard de plus de 90 jours",
+        "agingInt7": "total des arriérés",
+        "agingInt8": "À payer aujourd hui"
+    },
+    "settlementAdvice": {
+        "title": "",
+        "statementbydate": "",
+        "download": "",
+        "productdescription": "",
+        "noresultinfomsg": "",
+        "showingResults": ""
+    },
+    "dsaFilterSelect": {
+        "status": "",
+        "status_all": "",
+        "status_excel": "",
+        "status_pdf": ""
+    },
+    "statementofaccount": {
+        "title": "Relevé de compte",
+        "statementbydate": "Déclarations par date",
+        "productdescription": "Description du produit",
+        "noresultinfomsg": "Please check if you have entered the correct information"
+    },
+    "system_down_info": {
+        "errorDuration": "Nous procédons à une maintenance programmée jusqu'à",
+        "errorDurationMsg": "Pendant cette période, les sections suivantes du site seront indisponibles :",
+        "affectedArea": "Commander \/ Produits \/ Finances et documents",
+        "helpSupport": "Merci de votre patience. Si vous avez besoin d'aide immédiate, veuillez contacter notre équipe de soutien via Aide et soutien"
+    },
+    "tooltiptext": {
+        "creditavailable": " Crédit disponible = (Limite de crédit totale - Montant dû)",
+        "remainingcredit": "Crédit restant = (Limite de crédit totale - Montant dû - Valeur de l’ordre ouvert)",
+        "lastpaymentdate": "Date à laquelle le paiement le plus récent a été reçu.",
+        "lastpaymentamount": "Montant du dernier paiement reçu.",
+        "amountdue": "Montant dû pour toutes les commandes facturées",
+        "overdue": "Indique tout montant dû en dehors des conditions de paiement.",
+        "outstandingwithinterm": "Indique tout montant dû dans le cadre des conditions de paiement.",
+        "openordervalue": "Le total de toutes les commandes qui n’ont pas été livrées et les livraisons n’ont pas encore été facturées.",
+        "materialNumToolTipText": "Material Number Tootltip Text Area------Information to be added",
+        "batchNumToolTipText": "Batch Number Tootltip Text Area------Information to be added",
+        "invoiceNavigation": "Cliquez pour voir les dÃƒÂ©tails de la facture"
+    },
+    "uploadMessage": {
+        "dropFile": "ou déposer le fichier ici",
+        "uploadSuccess": "Fichier téléchargé.",
+        "uploadProcess": "Traitement du formulaire de commande...",
+        "processSuccess": "Le formulaire de commande a été traité avec succès.",
+        "uploading": "Téléchargement...",
+        "maximumFileSize": "Taille maximale du fichier 10 Mo",
+        "successEntries": "{{len}}  produits trouvés sur votre bon de commande.",
+        "failEntries": "produits ont des problèmes. Veuillez examiner les problèmes ci-dessous ou",
+        "failEntries1": "supprimer tous les produits présentant des problèmes."
+    },
+    "uploadButtons": {
+        "browseFile": "Parcourir les fichiers",
+        "cancel": "Annuler",
+        "replace": "Remplacer le fichier",
+        "processOrder": "Traitement du bon de commande",
+        "clearall": "Tout effacer et recommencer",
+        "okButton": "Continuer"
+    },
+    "errMessages": {
+        "fileTypeError": "Veuillez télécharger un fichier Excel.",
+        "fileSizeError": "Taille maximale du fichier 10 Mo."
+    },
+    "uploadContent": {
+        "uploadText": "Téléchargez un fichier Excel basé sur l'un des modèles ci-dessous.",
+        "contractText": "Pour les produits sous contrat, utilisez le",
+        "contractLink": "page des contrats.",
+        "quickContent": "Ajoutez rapidement et facilement des produits à votre panier à l'aide de modèles",
+        "createContent": "Créez votre commande au format Excel.",
+        "checkoutLink": "Consultez notre tutoriel",
+        "uploadContent": "Téléchargez pour vérifier votre commande auprès de notre service (par exemple, la disponibilité des stocks, les délais de livraison, les statuts)",
+        "allProducts": "Tous les produits (Excel)",
+        "frequentlyOrder": "Produits fréquemment commandés (Excel)",
+        "favouriteProducts": "Produits favoris (Excel)",
+        "downloadTitle": "Télécharger le modèle",
+        "downloadContent": "Choisissez un modèle pour votre type de produit :",
+        "bulkButton": "Produits en vrac",
+        "packButton": "Produits emballés",
+        "cancel": "Annuler",
+        "downloadText": "Télécharger le modèle",
+        "orderHeading": "Modèles de formulaire de commande",
+        "uploadHeading": "Pourquoi télécharger un formulaire de commande?",
+        "removeAllTitle": "Supprimer tous les produits présentant des problèmes?",
+        "removeAllContent": "Pour afficher ces produits, téléchargez à nouveau votre formulaire de commande.",
+        "removeAllText": "Supprimer des produits",
+        "successToastrMessage": "Produits retirés avec problèmes",
+        "noProductsTemplate": "Vous n'avez pas de produits disponibles à utiliser dans le modèle. Essayez une autre option de modèle ou utilisez la page de commande rapide.",
+        "noTemlateHeader": "Aucun produit dans ce modèle",
+        "uploadFormName": "BonDeCommande"
+    },
+    "userroles": {
+        "14": "",
+        "03": "",
+        "19": "",
+        "22": "",
+        "15": "",
+        "20": "",
+        "16": "",
+        "21": "",
+        "17": "",
+        "18": "",
+        "23": "",
+        "multitasker": "Multi-tâches",
+        "ordermanagementgroup": "Enregistrement des commandes",
+        "orderreviewergroup": "Contrôleur de la commande",
+        "dfoaorderplavergroup": "Enregistrement des commandes",
+        "financeusergroup": "Responsable des finances",
+        "billingsupervisor": "Responsable de la facturation",
+        "warehousemgrusergroup": "Gestionnaire d'entrepôt",
+        "dfoaexpertdeliverygroup": "Expert en livraison de DFOA",
+        "salesmarketingusergroup": "Directeur des ventes et du marketing",
+        "techmanagergroup": "Directeur technique",
+        "b2badmingroup": "b2bAdmin"
+    },
+    "wcag": {
+        "title": "Texte",
+        "myaccountnavmenu": "My Account Navigation"
+    },
+    "errorHandlers": {
+        "scriptFailedToLoad": "Failed to load the script.",
+        "refreshThePage": "Please refresh the page."
+    },
+    "skipLink": {
+        "skipTo": "Skip to",
+        "labels": {
+            "header": "Header",
+            "main": "Main Content",
+            "footer": "Footer",
+            "productFacets": "Product Facets",
+            "productList": "Product List"
+        }
+    },
+    "miniLogin": {
+        "userGreeting": "Bonjour, {{name}}",
+        "signInRegister": "S'identifier \/ Enregistrer"
+    },
+    "refErrorMsg": {
+        "billingdocumentNumber": "Entrez uniquement des chiffres",
+        "deliverydocumentNumber": "Entrez uniquement des chiffres",
+        "purchaseOrderNumber": "Entrer n˚ de bon de commande",
+        "contractNumber": "Entrez le numéro de contrat",
+        "orderNumber": "Entrez le numéro de commande",
+        "creditMemoNumber": "Entrez le numéro de la note de crédit",
+        "distributorDeliveryNumber": "Enter distributor delivery number"
+    },
+    "httpHandlers": {
+        "badGateway": "A server error occurred. Please try again later.",
+        "badRequestPleaseLoginAgain": "{{ errorMessage }}. Please login again.",
+        "badRequestOldPasswordIncorrect": "Old password incorrect.",
+        "conflict": "Already exists",
+        "forbidden": "You are not authorized to perform this action.",
+        "gatewayTimeout": "The server did not respond, please try again later.",
+        "internalServerError": "An Internal Server Error occurred. Please try again later.",
+        "unknownError": "An unknown error occurred",
+        "unauthorized": {
+            "common": "An unknown authorization error occured",
+            "invalid_client": "Bad client credentials"
+        },
+        "validationErrors": {
+            "missing": {
+                "card_cardType": "The selected credit card is not supported. Please select another.",
+                "card_accountNumber": "The credit card number entered is not valid.",
+                "card_cvNumber": "The security code entered is not valid.",
+                "card_expirationMonth": "The credit card expiration date entered is not valid.",
+                "card_expirationYear": "The credit card expiration date entered is not valid.",
+                "billTo_firstName": "The first name entered is not valid.",
+                "billTo_lastName": "The last name entered is not valid.",
+                "billTo_street1": "The address entered is not valid.",
+                "billTo_street2": "The address entered is not valid.",
+                "billTo_city": "The city entered is not valid for this credit card.",
+                "billTo_state": "The state\/province entered is not valid for this credit card.",
+                "billTo_country": "The country entered is not valid for this credit card.",
+                "billTo_postalCode": "The zip\/postal code is not valid for this credit card.",
+                "country": {
+                    "isocode": "Missing country"
+                }
+            },
+            "invalid": {
+                "card_expirationMonth": "The credit card expiration date entered is not valid.",
+                "firstName": "First Name entered is not valid.",
+                "lastName": "Last Name entered is not valid.",
+                "password": "Password entered is not valid.",
+                "uid": "UID is not valid."
+            }
+        },
+        "cartNotFound": "Cart not found.",
+        "invalidCodeProvided": "Invalid code provided."
+    },
+    "dateFilter": {
+        "billingdate": "Date de facturation",
+        "shipdate": "Ship Date",
+        "createddate": "Date de création"
+    },
+    "navigation": {
+        "shopAll": "Magasinez tous {{ navNode}} >"
+    },
+    "sorting": {
+        "date": "Date de création",
+        "orderNumber": "Numéro de commande",
+        "rma": "Numéro de retour"
+    },
+    "pageMetaResolver": {
+        "category": {
+            "title": "{{count}} résultat pour {{query}}",
+            "title_plural": "{{count}} résultats pour {{query}}"
+        },
+        "checkout": {
+            "title": "Checkout {{count}} item",
+            "title_plural": "Checkout {{count}} items"
+        },
+        "search": {
+            "title": "{{count}} résultat pour {{query}}",
+            "title_plural": "{{count}} résultats pour {{query}}",
+            "findProductTitle": "{{count}} result for coupon {{coupon}}",
+            "findProductTitle_plural": "{{count}} results for coupon {{coupon}}",
+            "page_title": "Résultats de la recherche pour {{query}}"
+        },
+        "product": {
+            "description": "{{description}}",
+            "heading": "{{heading}}",
+            "title": "{{title}}",
+            "page_title": "Produits"
+        }
+    },
+    "formErrors": {
+        "globalMessage": "The form you are trying to submit contains errors.",
+        "required": "Ce champ ne peut pas être vide",
+        "cxInvalidEmail": "This is not a valid email format",
+        "cxInvalidPassword": "This is not a valid password format",
+        "cxPasswordsMustMatch": "Password fields must match",
+        "cxEmailsMustMatch": "Email fields must match",
+        "cxStarRatingEmpty": "Rating field is required",
+        "cxNoSelectedItemToCancel": "Select at least one item to cancel"
+    },
+    "validationErrorMsg": {
+        "billingdocumentNumber": "Enter only Numbers",
+        "deliverydocumentNumber": "Enter only Numbers",
+        "purchaseOrderNumber": "Enter valid value",
+        "contractNumber": "Enter only Numbers",
+        "orderNumber": "Enter only Numbers",
+        "creditMemoNumber": "Enter only Numbers",
+        "distributorDeliveryNumber": "Enter valid value"
+    },
+    "productTabs": {
+        "allProducts": "Tous les produits ({{count}})",
+        "favourites": "Favourites ({{count}})",
+        "frequentlyOrdered": "Fréquemment commandé ({{count}})",
+        "contractProducts": "Produits contractuels",
+        "favouritesCount": "{{count}} Favourites",
+        "allProductsCount": "{{count}} Produits",
+        "frequentlyOrderedCount": "{{count}} Fréquemment commandé",
+        "contractProductsCount": "{{count}} Produits"
+    },
+    "miniCart": {
+        "item": "{{count}} item currently in your cart",
+        "item_plural": "{{count}} items currently in your cart",
+        "total": "{{total}}",
+        "count": "{{count}}"
+    },
+    "spinner": {
+        "loading": "chargement…"
+    },
+    "searchBox": {
+        "placeholder": "Rechercher un produit",
+        "productlabel": "Produits",
+        "materialcodetext": "Code matière:",
+        "suggestiontext": "Résultats de la recherche pour",
+        "contractProductLabel": "Produit contractuel",
+        "viewProduct": "Voir le produit",
+        "favoriteSearch": "Recherche de favoris",
+        "frequentSearch": "Recherche fréquemment commandée",
+        "contractSearch": "Recherche de produits contractuels",
+        "favoritelocation": "Favourite locations({{ count }})",
+        "help": {
+            "insufficientChars": "Veuillez saisir plus de caractères",
+            "noMatch": "Il n'y a aucun résultat pour",
+            "noMatchMessage1": "Assurez-vous que tous les mots sont orthographiés correctement",
+            "noMatchVisitText1": "Visitez notre ",
+            "noMatchVisitText2": "catalogue de produits",
+            "noMatchVisitText3": " pour trouver le produit que vous cherchez",
+            "exactMatch": "{{ term }}",
+            "empty": "Demandez-nous"
+        },
+        "productapplicationtext": "Application produits",
+        "productcount": "Produits",
+        "sortBy": "Trier par"
+    },
+    "documentFilter": {
+        "billingdate": "Date de facturation",
+        "shipdate": "Ship Date",
+        "createddate": "Date de création"
+    },
+    "referenceDeliveryDoc": {
+        "delDocNo": "deliverydocumentNumber",
+        "creditMemoNumber": "Enter Credit Memo Number",
+        "billingDocumentNumber": "Entrez le numéro de la facture",
+        "orderNumber": "Entrez le numéro de commande",
+        "distributorDeliveryNumber": "Enter Distributor Delivery Number",
+        "deliverydocumentNumber": "Entrez le numéro du document de livraison",
+        "purchaseOrderNumber": "Entrez le n˚ de bon de commande",
+        "contractNumber": "Entrez le numéro de contrat",
+        "please": "S’il vous plaît"
+    },
+    "deliveryDocType": {
+        "61": "Lettre de transport",
+        "68": "Preuve de la livraison",
+        "69": "Notification d'expédition avancée",
+        "72": "Bon de livraison"
+    },
+    "viewOrderPage": [
+        {
+            "label": "Historique des commandes",
+            "link": "\/orderHistory"
+        }
+    ],
+    "orderHistoryPage": [
+        {
+            "label": "Historique des commandes",
+            "link": ""
+        }
+    ],
+    "financialsHomePage": [
+        {
+            "label": "Finances et documents",
+            "link": ""
+        }
+    ],
+    "titles": {
+        "quickorder": "Commande rapide",
+        "cartPage": "Panier",
+        "orderHistoryPage": "Nos valeurs"
+    },
+    "productList": [
+        {
+            "label": "Produits",
+            "link": "\/c\/allProducts",
+            "sublink": [
+                {
+                    "label": "Tous les produits",
+                    "link": ""
+                }
+            ],
+            "favourites": [
+                {
+                    "label": "Favoris",
+                    "link": ""
+                }
+            ],
+            "frequentlyOrdered": [
+                {
+                    "label": "Fréquemment commandé",
+                    "link": ""
+                }
+            ],
+            "contractProducts": [
+                {
+                    "label": "Produits contractuels",
+                    "link": ""
+                }
+            ]
+        }
+    ],
+    "cartPage": [
+        {
+            "label": "Home",
+            "link": "\/"
+        },
+        {
+            "label": "Panier",
+            "link": ""
+        }
+    ],
+    "productDocuments": [
+        {
+            "label": "Produits",
+            "link": "\/productDocuments",
+            "sublink": [
+                {
+                    "label": "Documents relatifs aux produits",
+                    "link": ""
+                }
+            ]
+        }
+    ],
+    "sortByDelivery": {
+        "earliest": "Trier par date d’ajout",
+        "farthest": "Trier par date la plus ancienne"
+    },
+    "page_1.welcome": "BIENVENUE-1",
+    "page_1.lokalise_demo": "DÉMO LOKALISE"
+}
