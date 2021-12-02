@@ -1,6 +1,4 @@
 {
-    "page_1.welcome": "WELCOME",
-    "page_1.lokalise_demo": "LOKALISE DEMO",
     "accountsummary": {
         "title": "Account summary",
         "creditlimit": "Credit limit",
@@ -18,6 +16,1781 @@
         "paymentterms": "Payment terms",
         "moreinformation": "More information",
         "lessinformation": "Less information",
-        "print": "Print"
-    }
+        "print": "Print",
+        "printtest": "PrintTest",
+        "test": "Test Updated New"
+    },
+    "actions": {
+        "save": "Save",
+        "cancel": "Cancel",
+        "clickHere": "click here"
+    },
+    "billingdocuments": {
+        "payer": "Payer:",
+        "Account": "Account",
+        "selectAccount": "Select account",
+        "selectPayer": "Select payer",
+        "selectCreditarea": "Select credit control area",
+        "creditcontrol": "Credit area:",
+        "creditcontrolarea": "Credit control area:",
+        "title": "Billing documents",
+        "all": "All",
+        "deliverylocations": "delivery locations",
+        "deliverylocation": "All delivery locations",
+        "alllocation": "All locations",
+        "allstatus": "All status",
+        "alldocumenttype": "All document types",
+        "documentcreateddate": "Document created date",
+        "showall": "Show all billing documents",
+        "billingdocumentno": "Document number",
+        "totalamount": "Total amount (GBP)",
+        "totlamountnocurrency": "Total amount",
+        "paymentstatus": "Payment status",
+        "paymentmethod": "Payment Method",
+        "duedate": "Due date",
+        "actions": "Actions",
+        "noresult": "No results found",
+        "dateFilterTitle": "All billing documents",
+        "refNumber": "Reference number",
+        "billingDate": "Billing date",
+        "billingType": "Billing type",
+        "lastCountMonths": "Last {{count}} Months",
+        "configureColumn": "Configure Column",
+        "showbillingdocument": "Show billing documents",
+        "ponumber": "PO number",
+        "ponumbermobile": "Po number",
+        "createddate": "Created date",
+        "ordercreateddate": "Order created date",
+        "status": "Status",
+        "filters": "Additional filters",
+        "configurecolumn": "Configure column",
+        "viewinvoice": "View invoice details",
+        "deliveryto": "Delivery to",
+        "shiptocode": "Ship-to code",
+        "daysdue": "Days Due",
+        "columnsettings": "Show\/hide columns",
+        "columnminimumdisplay": "Select minimum 6 columns",
+        "clearingdocument": "Clearing document",
+        "dayspastdue": "Days past due",
+        "closingdate": "Closing date",
+        "billingtype": "Billing type",
+        "deliveryno": "Distributor delivery no",
+        "distributordeliverynumber": "Delivery number",
+        "sortby": "Sort by",
+        "accounttypestatement": "Statement of account type",
+        "applyfilters": "Apply Filters",
+        "changePayer": "Change payer",
+        "changeArea": "Change area",
+        "changeAccount": "Change account",
+        "changeSelection": "Change Selection",
+        "rangeaboveoneyear": "Maximum date range: 1 year",
+        "shellbusinesschannel": "Shell business channel",
+        "showme": "Show me",
+        "latestdocument": "Latest documents",
+        "alldocuments": "All documents",
+        "enterdeliverynumber": "Enter delivery number",
+        "enterbillingnumber": "Enter billing document number",
+        "billinglistinfo": "Here you'll find: invoices, credit\/debit memos, invoice cancellations and credit memo cancellations.",
+        "noresults": "No results found",
+        "nodatamsg": "There are no results to display",
+        "billingstatus": "Status",
+        "bilingType": "Biling type",
+        "documentCreatedDate": "Document created date",
+        "shipToCode": "Ship-to code",
+        "distributorDeliveryNumber": "Distributor delivery number",
+        "productType": "Product type",
+        "documentCreationDate": "Document creation date",
+        "date": "Date:"
+    },
+    "changeConfirmModal": {
+        "cancelChange": "Cancel Change",
+        "saveChange": "Save Change",
+        "goback": "Go back",
+        "saveConfig": "Save configuration",
+        "modalTitleProd": "Are you sure you want to change your order configuration?",
+        "modalBodyProd": "Updating your order configuration may affect the list of products available to view.",
+        "modalTitleOrder": "Products in your list are not saved",
+        "modalBodyOrder": "All products in your list will be removed when you change your order configuration.",
+        "saveOrder": "Clear list and confirm change",
+        "modalTitleCart": "You have unsaved items in your basket",
+        "modalBodyCart": "if you continue to change your configuartion, everything will be removed from your basket.",
+        "saveCart": "Empty basket and confirm change",
+        "modalTitleContracts": "Contracts may no longer apply if you continue",
+        "modalBodyContracts": "You currently have a contract selected.",
+        "modalBodyContractsmsg": "These contracts may no longer apply once you change your order configuration."
+    },
+    "helpsupport": {
+        "title": "Help and support",
+        "get_help_and_support": "Get Help and Support",
+        "community_text": "Ask the community, browse the FAQs or raise a service request"
+    },
+    "header": {
+        "account": "Accounts",
+        "allAccount": "All accounts",
+        "noOfRecords": "Showing {{m}} to {{n}} of {{o}} accounts.",
+        "noResult": "No results found.",
+        "selected": "Selected",
+        "deliveryaddress": "Delivery address",
+        "distributionchannel": "Distribution",
+        "division": "Division",
+        "salesorg": "Sales organisation",
+        "login": "Login",
+        "register": "Register",
+        "menu": "Menu",
+        "myaccount": "Account",
+        "basketItem": "Item",
+        "basketItems": "Items",
+        "myAccountLogin": {
+            "title": "Account Name",
+            "resetPassword": "Change password",
+            "manageUser": "Manage Users",
+            "passwordchanged": "Password succesfully changed",
+            "logout": "Log out",
+            "myprofile": "My profile"
+        },
+        "miniCartCount": {
+            "item": "{{count}} Item",
+            "item_plural": "{{count}} Items"
+        },
+        "customerTitle": "Account",
+        "customerDetailsTitle": "Customer Details",
+        "businessCategoryTitle": "Business Category",
+        "placeofDeliveryTitle": "Place of Delivery",
+        "changeDeliveryLocation": "Change",
+        "viewMore": "View more",
+        "deliverylocation": "Delivery address",
+        "deliverfromlocation": "Distributor address",
+        "customerlocation": "Customer address",
+        "producttype": "Product type",
+        "configurelocation": "Configure delivery location",
+        "location": "Location",
+        "favourite": "Favourite",
+        "alllocation": "All locations",
+        "searchbylocation": "Search by location number, company or address"
+    },
+    "common": {
+        "searchBox": {
+            "placeholder": "Product Search"
+        },
+        "cancel": "",
+        "delete": "",
+        "remove": "",
+        "edit": "",
+        "back": "",
+        "submit": "",
+        "continue": "",
+        "save": "",
+        "done": "",
+        "home": "",
+        "date": "",
+        "today": "",
+        "latest": "",
+        "all": "",
+        "print": "",
+        "download": "",
+        "dispute": "",
+        "currency": "",
+        "open": "",
+        "moreinfo": "",
+        "lessinfo": "",
+        "clear": "",
+        "search": "",
+        "selectAll": "",
+        "totalAmount": "",
+        "total": "",
+        "downloadexcel": "",
+        "downloadpdf": "",
+        "viewprint": "",
+        "view": "",
+        "apply": "",
+        "pdf": "",
+        "excel": "",
+        "excell": "",
+        "merge": "",
+        "preview": "",
+        "filetypes": "",
+        "exportas": ""
+    },
+    "lob": {
+        "distch_division": {
+            "08_03": "Lubes",
+            "08_02": "Fuels",
+            "08_07": "Services",
+            "03_02": "Fuels",
+            "03_03": "Lubes",
+            "02_02": "Fuels",
+            "06_02": "Fuels",
+            "06_05": "LPG",
+            "06_09": "Crude",
+            "14_06": "Conv.Retail",
+            "14_12": "LNG",
+            "13_04": "Bitumen",
+            "04_02": "Fuels",
+            "04_03": "Lubes",
+            "07_02": "Fuels"
+        },
+        "division": {
+            "02": "Fuels",
+            "03": "Lubes",
+            "04": "Bitumen",
+            "05": "LPG",
+            "06": "Convenience Retail",
+            "07": "Services",
+            "09": "Crude",
+            "12": "LNG",
+            "14": "Sulphur"
+        },
+        "distributionChannel": {
+            "02": "Global Fuels",
+            "03": "Global Aviation",
+            "04": "Global Marine",
+            "06": "Global Supply",
+            "07": "Global Distribution",
+            "08": "Global Lubricants",
+            "13": "Specialties",
+            "14": "Global Retail"
+        },
+        "salesorg": {
+            "IN02": "Shell India Markets",
+            "IN11": "Shell MRPL India",
+            "GB01": "Shell UK Markets",
+            "ID01": "PT Shell Indonesia",
+            "DE01": "Shell DE Oil GmbH",
+            "CA48": "Shell CA Products",
+            "TR04": "Shell &Turcas Petrol",
+            "US52": "SOPUS Products"
+        }
+    },
+    "user": {
+        "loginForm": {
+            "emailAddress": {
+                "placeholder": "Please enter email address"
+            },
+            "enterValidEmail": "Please make sure your email is entered correctly",
+            "password": {
+                "placeholder": "Please enter password"
+            },
+            "forgotPassword": "Forgotten password?",
+            "signIn": "Login",
+            "dontHaveAccount": "Create An Account",
+            "register": "Register Now"
+        }
+    },
+    "commonTranslation": {
+        "searchBy": "Search by",
+        "date": "Date",
+        "Today": "Today",
+        "pastWeek": "Past week",
+        "pastMonth": "Past month",
+        "filters": "Filters",
+        "between": "between",
+        "downloadexcel": "Download Excel",
+        "showhidecolumn": "Show\/hide columns",
+        "total": "Total",
+        "managecookie": "Modify cookie preferences"
+    },
+    "createuser": {
+        "title": "Create User",
+        "subtext": "Provide access to accounts and delivery locations and configure their overall Shell markethub experience",
+        "emailLabel": "Enter their email address",
+        "selectuserlabel": "Select a user role",
+        "selectuserdesc": "Super users have extra administration privileges such as creating or modifying other users. You can amend privileges before you finish creating this account.",
+        "superuser": "Super user",
+        "normaluser": "Normal user",
+        "prodcutTitle": "2. Product type",
+        "productDesc": "Select which product lines this user will work with. You can select more than one.",
+        "selectprodtype": "Select product type",
+        "division": "Division:",
+        "personalstitle": "1. User details",
+        "accountstitle": "3. Accounts",
+        "deliverytitle": "4. Delivery locations",
+        "privilegestitle": "5. Privileges",
+        "reviewtitle": "Review",
+        "emailEmpty": "Enter their email address",
+        "enterValidEmailAddress": "Enter a valid email address",
+        "selectUserRole": "Please select a user role",
+        "emailTooltip": "They will use this email address to log in to their account.",
+        "selectAtleastOneDelLoc": "Please select an address for the following accounts: ",
+        "accountDesc": "Choose which accounts the user will have access to.",
+        "selectaccounts": "Select account(s)",
+        "selectdeliveryloc": "Select delivery addresses",
+        "accnumheader": "Account number",
+        "accnameheader": "Account name",
+        "accaddheader": "Account address",
+        "locnameheader": "Location number",
+        "delnameheader": "Delivery name",
+        "deladdheader": "Delivery address",
+        "selectAccMenu": "Select accounts",
+        "selectpage1opt": "Select {{startcount}} to {{endcount}} accounts shown",
+        "selectall": "Select all {{totalresults}} accounts",
+        "deselectall": "Deselect all",
+        "viewselectiontxt": "View selection ({{selectedCount}})",
+        "viewmodalheader": "Selected accounts ({{endcount}} of {{totalresults}})",
+        "viewmodaldelheader": "Selected addresses ({{endcount}} of {{totalresults}})",
+        "reviewAccountsselData": "{{selCount}} of {{totalCount}} selected",
+        "reviewDeliveryselData": "{{selCount}} of {{totalCount}} selected",
+        "listrowColumn": "#",
+        "userCreateInfoMsg": "You are creating a",
+        "accfor": "account for",
+        "deliveryDesc": "Select which locations the user can access to arrange deliveries.",
+        "searchdelplaceholder": "Search by account number or delivery information",
+        "searchaccPlaceholder": "Search by account number, name or address",
+        "progressbarstep1": "1. Details",
+        "progressbarstep2": "2. Products",
+        "progressbarstep3": "3. Accounts",
+        "progressbarstep4": "4. Deliveries",
+        "progressbarstep5": "5. Privileges",
+        "progressbarstep1mobile": "1. Personal details",
+        "progressbarstep2mobile": "2. Product type",
+        "progressbarstep4mobile": "4. Delivery details",
+        "progressbarstep5mobile": "5. Roles and privileges",
+        "financeusergroup": "Finance group",
+        "privilegesDesc": "Configure the user’s experience of Shell MarketHub by selecting which features are available.",
+        "setPrivileges": "Set privileges",
+        "privilegesTooltip": "Tooltip Label",
+        "selectAll": "Select all privileges",
+        "orderPlacer": "Order placer",
+        "createAmendOrder": "Create\/amend order",
+        "orderReviewer": "Order reviewer",
+        "viewOrder": "View order",
+        "searchOrder": "Search order",
+        "financeManager": "Finance manager",
+        "monthlyStatement": "Monthly statement",
+        "settlementAdvice": "Settlement advice",
+        "accountSummary": "Account summary",
+        "billingSupervisor": "Billing supervisor",
+        "rollingStatement": "Rolling statement",
+        "billingDocuments": "Billing documents",
+        "dfoaReport": "DFOA reimburesement report",
+        "warehouseManager": "Warehouse manager",
+        "deliveryDocs": "Delivery documents",
+        "deliveryTicket": "Delivery ticket",
+        "SalesMarketing": "Sales and marketing manager",
+        "distributorAcademy": "Distributor academy",
+        "marketingInformation": "Marketing information",
+        "technicalManager": "Technical manager",
+        "cardReport": "Card report",
+        "salesValue": "Sales value",
+        "salesVolume": "Sales volume",
+        "dfaoOrder": "DFOA Order placer",
+        "dfaoCustomerReport": "DFOA Customer restrictions report",
+        "productReport": "Shell product report",
+        "dfaoCreateOrder": "DFOA Create order",
+        "dfaoorderReviewer": "DFOA Order reviewer",
+        "dfaoEditOrder": "DFOA Edit order",
+        "dfaoAmendCancelOrder": "DFOA Amend\/cancel order",
+        "dfaoDeliveryExpert": "DFOA Delivery expert",
+        "reviewdesc": "Check that all the details are correct and select Create user to complete their account set up.",
+        "editText": "Edit",
+        "fules": "fuels",
+        "lubricants": "lubricants",
+        "emailErrMsg": "This user already has an account with Shell MarketHub. ",
+        "showingUserof": "Showing {{startcount}} to {{endcount}} of {{total}} accounts",
+        "accountfound": "account found",
+        "with": "with",
+        "selectdivision": "Please select a division.",
+        "selectAccountErrorMsg": "Please select an account. ",
+        "selectDeliveryErrorMsg": "Please select an address. ",
+        "updateEmailWarn": "Updating the email address will clear all information previously entered for this user, and reset all their settings.",
+        "updateEmailTitle": "Updating email address will reset information",
+        "updateEmailText": "All details entered previously will be cleared if you edit the email address. You will then need to restart the process to create a new user.",
+        "understandLabel": "I understand",
+        "createUserError": "Sorry, we were unable to create this user account due to a technical issue. Please try again."
+    },
+    "deliverydocuments": {
+        "document": {
+            "title": "Delivery documents",
+            "setfilters": "Additional filters",
+            "requestdocument": "Request these documents",
+            "documentno": "Document number",
+            "deliverydocumentno": "Delivery Document number",
+            "deliverydocumentnomobile": "Delivery Document no",
+            "datecreated": "Date created",
+            "deliverydate": "Delivery date",
+            "deliveryTo": "Delivery location",
+            "deliverylocation": "Ship-to code",
+            "alllocations": "All locations",
+            "documenttype": "Document type",
+            "noresults": "No results found",
+            "noresultstext": "Please enter a delivery number",
+            "nosearchresultsmsg": "Please enter a valid number",
+            "enter": "Enter",
+            "please": "Please",
+            "nodatamsg": "There are no results to display",
+            "enterdeliverynumber": "Enter delivery number",
+            "documentunavailable": "Document unavailable",
+            "ordercreateddate": "Order created date",
+            "nextquarter": "Next quarter",
+            "previousquarter": "Previous quarter",
+            "invoicenumber": "Invoice number",
+            "all": "",
+            "deliverylocations": ""
+        }
+    },
+    "delivery": {
+        "date": "Delivery Date"
+    },
+    "dfoamodule": {
+        "dfoaModelHeader": "Leave DFOA",
+        "replenishmentHeader": "Leave Replenishment",
+        "dfoaModelReplenishmentMsg": "Are you sure you want to switch to your DFOA workspace?",
+        "dfoaModelMsg": "Are you sure you want to switch to your replenishment workspace?",
+        "dfoaValue": "Deliver for own account (DFOA)",
+        "replenishmentValue": "Replenishment orders",
+        "dfoaDeliveryConfirmation": "Delivery Confirmation",
+        "confirmDelivery": "Confirm delivery",
+        "distributorDeliveryNumber": "Distributor delivery number",
+        "distributorDeliveryNumberPlaceholder": "e.g., 234857324958",
+        "distributorDeliveryNumberTooltipMessage": "Lorem ipsum dolor sit amet..",
+        "deliveredDate": "Delivered date",
+        "deliveredDatePlaceholder": "DD\/MM\/YYYY",
+        "applyToAll": "Apply to all",
+        "numberRequired": "Number required",
+        "dateRequired": "Date required",
+        "qtyRequired": "Quantity required",
+        "moreInformation": "More information",
+        "lessInformation": "Less information",
+        "delivery": "Delivery",
+        "orderedQty": "Ordered Qty",
+        "deliveredQty": "Delivered Qty",
+        "confirmDeliveryForOrder": "Confirm delivery for order",
+        "qtyProduct": "{{ count }} product",
+        "qtyProduct_plural": "{{ count }} products",
+        "materialCode": "Material code",
+        "unit": "Unit",
+        "weight": "Weight",
+        "weightUnit": "Weight unit",
+        "rejectedItems": "Rejected items",
+        "exitDeliveryConfirmation": "Exit delivery confirmation",
+        "pleaseEnterFutureDate": "Please enter a future date",
+        "pleaseEnterPastDate": "Please enter a past date",
+        "modals": {
+            "common": {
+                "rejectItem": "Reject item",
+                "goBack": "Go back",
+                "continue": "Continue"
+            },
+            "rejectItemModal": {
+                "rejectItemQuestion": "Why are you rejecting this item?",
+                "rejectItemReasons": {
+                    "M3": "Stock out replenishment",
+                    "ZJ": "Damaged product",
+                    "ZE": "Customer tank full",
+                    "ZV": "Obsolete product",
+                    "M2": "Demand exceeds supply",
+                    "ZO": "Customer rejected",
+                    "Z7": "Other"
+                }
+            },
+            "rejectItemConfirmationModal": {
+                "rejectItemQuestion": "Are you sure you want to reject this item?"
+            },
+            "discardChangesModal": {
+                "title": "You could lose unsaved changes",
+                "textContent": "If you continue to exit delivery confirmation, you’ll lose any recent updates to this order."
+            }
+        }
+    },
+    "orderdetails": {
+        "orderNo": "Order #"
+    },
+    "expirypopup": {
+        "exitpopuptitle": "Your session has expired",
+        "sureToExit": "This is due to you being inactive for 30 minutes",
+        "loginAgain": "Please log in again",
+        "okay": "Ok"
+    },
+    "extendtimeoutpopup": {
+        "timeoutWarnpopuptitle": "Your session is about to expire",
+        "bodymsginfo": "You have been inactive for 30 minutes and will be logged out soon",
+        "bodyparainfo": "Would you like to extend the session?",
+        "yesExtend": "Yes, extend session",
+        "noExtend": "No, don't extend"
+    },
+    "financialmodule": {
+        "title": "Financials and documents",
+        "titleinfo": "Find invoices, statements and other documents.",
+        "accountdescription": "The details below are for the selected 'Account' only and do not take the 'Ordering to' location into consideration.",
+        "account": "Account:",
+        "refnumber": "Reference number",
+        "nextquarter": "Next quarter",
+        "previousquarter": "Previous quarter",
+        "download": "Download",
+        "downloadexcel": "Download (Excel)",
+        "viewprint": "View\/print",
+        "showhidecolumn": "Show\/hide columns",
+        "showing": "Showing {{pageData}}",
+        "of": "of",
+        "to": "to",
+        "documents": "documents"
+    },
+    "impersonation": {
+        "welcome": "Hello,",
+        "lastseen": "Last seen:",
+        "impersonateUser": "You are impersonating",
+        "recentSerches": "Recent searches",
+        "favourite": "Favourites",
+        "impersonate": "Impersonate",
+        "userType": "User type",
+        "userStatus": "User status",
+        "exitImpersonation": "Exit session",
+        "sureToExit": "Are you sure you want to exit this session?",
+        "sureToExitSessionRemoveCartMsg": "Have you added items to the basket?",
+        "returnImpersonation": "Return to session",
+        "alertNotificationMsg": "Remember to remove items that you've added to the basket",
+        "exitImpSessionCartConfirm": "Exit session ",
+        "exitImpSessionCartCheck": "Go back and remove"
+    },
+    "0": {
+        "code": "ordermanagementgroup",
+        "name": "Order placer",
+        "selected": "false",
+        "disabled": "",
+        "options": [
+            {
+                "name": "Create\/Amend order",
+                "tooltip": "Place orders and make changes as required."
+            }
+        ]
+    },
+    "1": {
+        "code": "orderreviewergroup",
+        "name": "Order reviewer",
+        "selected": "false",
+        "disabled": "",
+        "options": [
+            {
+                "name": "View order",
+                "tooltip": "View order details only. No ability to make order updates."
+            },
+            {
+                "name": "Search order",
+                "tooltip": "Search for orders. No ability to make order updates."
+            }
+        ]
+    },
+    "2": {
+        "code": "financeusergroup",
+        "name": "Finance manager",
+        "selected": "false",
+        "disabled": "",
+        "options": [
+            {
+                "name": "Monthly statement",
+                "tooltip": "View monthly statements containing invoice and credit details."
+            },
+            {
+                "name": "Settlement advice",
+                "tooltip": "Access daily accounting details of what Shell will draft from your bank account."
+            },
+            {
+                "name": " Account summary",
+                "tooltip": "View information on account balance, available credit, and last payment made."
+            }
+        ]
+    },
+    "3": {
+        "code": "billingsupervisorgroup",
+        "name": "Billing supervisor",
+        "selected": "false",
+        "disabled": "",
+        "options": [
+            {
+                "name": "Rolling statement",
+                "tooltip": "View a date based statement that allows you to choose open items, closed items or both."
+            },
+            {
+                "name": "Billing documents",
+                "tooltip": "View debits and credits that are placed on your account based on recent activity."
+            },
+            {
+                "name": "DFOA reimburesement report",
+                "tooltip": "Access a report that shows only DFOA credit memos"
+            }
+        ]
+    },
+    "4": {
+        "code": "warehousemgrusergroup",
+        "name": "Warehouse manager",
+        "selected": "false",
+        "disabled": "",
+        "options": [
+            {
+                "name": "Delivery documents",
+                "tooltip": "Access delivery records such as Delivery notes or Advanced shipping notices."
+            },
+            {
+                "name": "Delivery ticket",
+                "tooltip": "View ePOD notifications."
+            }
+        ]
+    },
+    "5": {
+        "code": "salesmarketingusergroup",
+        "name": "Sales and marketing manager",
+        "selected": "false",
+        "disabled": "",
+        "options": [
+            {
+                "name": "Distributor academy",
+                "tooltip": "Access a training area where distributors can learn more about Shell products."
+            },
+            {
+                "name": "Marketing information ",
+                "tooltip": "Get up to date relevant information about Shell’s local marketing campaigns."
+            }
+        ]
+    },
+    "6": {
+        "code": "techmanagergroup",
+        "name": "Technical manager",
+        "selected": "false",
+        "disabled": "",
+        "options": [
+            {
+                "name": "Card report",
+                "tooltip": "View any card charges that have been made at a retail station."
+            },
+            {
+                "name": "Sales value",
+                "tooltip": "Get a summary of the value of products purchased for a specific time period"
+            },
+            {
+                "name": " Sales volume",
+                "tooltip": "Get a summary of the quantity of productspurchased for a specific time period"
+            }
+        ]
+    },
+    "7": {
+        "code": "dfoaorderplacergroup",
+        "name": "DFOA Order placer",
+        "selected": "false",
+        "disabled": "",
+        "options": [
+            {
+                "name": "DFOA Customer restrictions report",
+                "tooltip": "Access a list of customers that do not allow ‘after event’ orders by a distributor."
+            },
+            {
+                "name": "Shell product report",
+                "tooltip": "Access the warehouse product list required to service Shell's customers."
+            },
+            {
+                "name": "DFOA Create order",
+                "tooltip": "Distributor can place orders for end use Shellcustomers. Only available in US and Canada."
+            }
+        ]
+    },
+    "8": {
+        "code": "dfoaorderreviewer",
+        "name": "DFOA Order reviewer",
+        "selected": "false",
+        "disabled": "",
+        "options": [
+            {
+                "name": "DFOA Edit order",
+                "tooltip": "Make minor modifications to orders created by another userfor an end use customer."
+            },
+            {
+                "name": "DFOA Amend\/cancel order",
+                "tooltip": "Modify or cancel orders that have been created for an end use customer"
+            }
+        ]
+    },
+    "9": {
+        "code": "dfoaexpertdeliverygroup",
+        "name": "DFOA Delivery expert ",
+        "selected": "false",
+        "disabled": "",
+        "options": [
+            {
+                "name": "DFOA View\/Confirm order ",
+                "tooltip": "Confirm deliveries made on behalf of Shell."
+            }
+        ]
+    },
+    "10": {
+        "code": "pricing",
+        "name": "Price viewer",
+        "selected": "false",
+        "disabled": "",
+        "options": [
+            {
+                "name": "View pricing",
+                "tooltip": "View pricing across all products."
+            }
+        ]
+    },
+    "11": {
+        "code": "5",
+        "name": "Senior Management - Finance"
+    },
+    "12": {
+        "code": "7",
+        "name": "Senior Management - Logistics \/ Warehousing \/ Supply Chain"
+    },
+    "13": {
+        "code": "2",
+        "name": "Senior Management - Operations"
+    },
+    "14": {
+        "code": "9",
+        "name": "Senior Management - Other"
+    },
+    "15": {
+        "code": "3",
+        "name": "Senior Management - Procurement"
+    },
+    "16": {
+        "code": "6",
+        "name": "Senior Management - Safety \/ Sustainability"
+    },
+    "17": {
+        "code": "8",
+        "name": "Senior Management - Sales &amp; Marketing"
+    },
+    "18": {
+        "code": "4",
+        "name": "Senior Management - Technical \/ Engineering"
+    },
+    "19": {
+        "code": "23",
+        "name": "Shell Distributor - Logistics \/ Warehousing \/ Supply Chain"
+    },
+    "20": {
+        "code": "22",
+        "name": "Shell Distributor - Marketing Manager"
+    },
+    "21": {
+        "code": "18",
+        "name": "Shell Distributor - Owner"
+    },
+    "22": {
+        "code": "19",
+        "name": "Shell Distributor - Sales Manager"
+    },
+    "23": {
+        "code": "20",
+        "name": "Shell Distributor - Sales Representative"
+    },
+    "24": {
+        "code": "21",
+        "name": "Shell Distributor - Technical"
+    },
+    "25": {
+        "code": "26",
+        "name": "Shell Retail Station - Forecourt Staff"
+    },
+    "26": {
+        "code": "24",
+        "name": "Shell Retail Station - Retailer"
+    },
+    "27": {
+        "code": "25",
+        "name": "Shell Retail Station - Site Manager"
+    },
+    "28": {
+        "code": "39",
+        "name": "Hypermarket"
+    },
+    "29": {
+        "code": "37",
+        "name": "Independent Workshop\/Garage"
+    },
+    "30": {
+        "code": "67",
+        "name": "Macro Distributor"
+    },
+    "31": {
+        "code": "49",
+        "name": "Manufacturing – Automotive"
+    },
+    "32": {
+        "code": "51",
+        "name": "Manufacturing – Food"
+    },
+    "33": {
+        "code": "50",
+        "name": "Manufacturing – General"
+    },
+    "34": {
+        "code": "55",
+        "name": "Manufacturing – Other"
+    },
+    "35": {
+        "code": "53",
+        "name": "Manufacturing - Paper &amp; Pulp"
+    },
+    "36": {
+        "code": "52",
+        "name": "Manufacturing - Pharma"
+    },
+    "37": {
+        "code": "54",
+        "name": "Manufacturing - Plastics"
+    },
+    "38": {
+        "code": "13",
+        "name": "Marine - Bulker \/ Barge \/ Reefer \/ Tanker"
+    },
+    "39": {
+        "code": "17",
+        "name": "Marine - Cruise"
+    },
+    "40": {
+        "code": "11",
+        "name": "Marine - Dredging"
+    },
+    "41": {
+        "code": "15",
+        "name": "Marine - Ferry"
+    },
+    "42": {
+        "code": "14",
+        "name": "Marine - Fishing"
+    },
+    "43": {
+        "code": "12",
+        "name": "Marine - Gen Mixed Cargo"
+    },
+    "44": {
+        "code": "18",
+        "name": "Marine - Harbor Services"
+    },
+    "45": {
+        "code": "16",
+        "name": "Marine - Liner \/ Container"
+    },
+    "46": {
+        "code": "19",
+        "name": "Marine - Manufacturing"
+    },
+    "47": {
+        "code": "10",
+        "name": "Marine - Navy\/CG\/Defense"
+    },
+    "48": {
+        "code": "21",
+        "name": "Marine - Other"
+    },
+    "49": {
+        "code": "20",
+        "name": "Marine - Trader"
+    },
+    "50": {
+        "code": "30",
+        "name": "Mining"
+    },
+    "51": {
+        "code": "41",
+        "name": "Motorfactors"
+    },
+    "52": {
+        "code": "61",
+        "name": "Oil &amp; Gas"
+    },
+    "53": {
+        "code": "71",
+        "name": "Other"
+    },
+    "54": {
+        "code": "46",
+        "name": "Gas"
+    },
+    "55": {
+        "code": "45",
+        "name": "HFO"
+    },
+    "56": {
+        "code": "42",
+        "name": "Independent Power Producer"
+    },
+    "57": {
+        "code": "47",
+        "name": "Power - Other"
+    },
+    "58": {
+        "code": "43",
+        "name": "Power - Solar"
+    },
+    "59": {
+        "code": "44",
+        "name": "Power - Wind"
+    },
+    "60": {
+        "code": "31",
+        "name": "Quarrying"
+    },
+    "61": {
+        "code": "62",
+        "name": "Rail"
+    },
+    "62": {
+        "code": "68",
+        "name": "Reseller"
+    },
+    "63": {
+        "code": "70",
+        "name": "Shell Agent (for Japan model)"
+    },
+    "64": {
+        "code": "57",
+        "name": "Shell Retail - Company Owned"
+    },
+    "65": {
+        "code": "56",
+        "name": "Shell Retail – Dealer Owned"
+    },
+    "66": {
+        "code": "58",
+        "name": "Shell Retail - Licensed Markets"
+    },
+    "67": {
+        "code": "32",
+        "name": "Steel"
+    },
+    "68": {
+        "code": "59",
+        "name": "Technology (likes of Microsoft\/ Google \/Amazon under Enterprise Accounts in the future"
+    },
+    "69": {
+        "code": "60",
+        "name": "Utility (electricity, water, gas, etc.)"
+    },
+    "70": {
+        "code": "69",
+        "name": "Wholesaler"
+    },
+    "invoicedetails": {
+        "title": "Invoice",
+        "vieworder": "View order",
+        "invoiceoverview": "Overview",
+        "account": "Account:",
+        "payer": "Payer:",
+        "deliverylocation": "Delivery Location:",
+        "documentnumber": "Document number",
+        "billingdocumentnumber": "Billing document number",
+        "paymentterms": "Payment terms:",
+        "ponumber": "PO Number",
+        "createddate": "Creation date",
+        "billingdate": "Billing date",
+        "duedate": "Due date",
+        "deliverylink": "View delivery documents",
+        "backtobillingdocuments": "Back to the billing documents",
+        "backtorollingstatements": "Back to Rolling statements",
+        "viewotherinvoices": "View other invoices",
+        "go": "Go",
+        "ordersummary": {
+            "title": "Order summary",
+            "product": "Products",
+            "netlable": "Net amount¹",
+            "Taxlable": "Tax",
+            "total": "Total²",
+            "point1": "1. Includes surcharge, excise duties and\/or environmental fees (where applicable)",
+            "point2": "2. Includes taxes",
+            "point3": "3. Excludes taxes, surcharges and includes Excise Duties",
+            "aboutprice": "Prices against each product exclude taxes, surcharges and include excise duties."
+        },
+        "producttitle": "Products",
+        "viewdocuments": "View delivery documents",
+        "productdetails": {
+            "index": "#",
+            "ordernumber": "Order number",
+            "orderno": "Order no",
+            "productcode": "Product code",
+            "productdescription": "Product description",
+            "quantity": "Quantity",
+            "unitofmeasure": "Unit of measure",
+            "netprice": "Net price ({{currency}})",
+            "netvalue": "Net value ({{currency}})"
+        },
+        "buttons": {
+            "downloadtitle": "Download",
+            "printtitle": "Print",
+            "dispute": "Dispute"
+        },
+        "0": {
+            "label": "",
+            "link": "",
+            "sublink": [
+                {
+                    "label": "",
+                    "link": ""
+                }
+            ]
+        }
+    },
+    "landingpage": {
+        "shipByTitle": "Ship by category"
+    },
+    "manageuser": {
+        "title": "Manage User",
+        "accno": "Account No:",
+        "searchPlaceholder": "Search by name, account number or email address",
+        "manageUsers": "Manage Users",
+        "userfound": "{{totalUsers}} users",
+        "viewdetails": "View details",
+        "superUser": "Super user",
+        "multitasker": "Multi tasker",
+        "active": "Active",
+        "inactive": "Inactive",
+        "userWithSearchTerm": "{{result}} users found for {{searchTerm}}",
+        "noResultsFound": "No users found with {{searchTerm}}",
+        "searchBy": "You can search by name, account number or email address.",
+        "alternate": "Alternatively you can",
+        "viewallusers": "view all users",
+        "changeuserstatus": "Change user status",
+        "deactive": "Deactive",
+        "savechanges": "Save changes",
+        "cancel": "Cancel",
+        "activeTooltip": "Active users can log in and access ShellMarket Hub.",
+        "deactivateTooltip": "Deactivating a user will stop their access to Shell MarketHub. You can reset their account to Active at any time.",
+        "userAccountLocked": "This user’s account has been locked",
+        "unlocknow": "Unlock user account.",
+        "unlockSuccess": "This account is now unlocked.",
+        "showingUser": "Showing {{filterd}} of {{total}} users",
+        "createuser": "Create new user",
+        "userCreatedMsg": "User account created. Once processed, it will be listed here and {{firstname}} {{lastname}} will receive a welcome email.",
+        "superUserCreatedMsg": "Super user account created. Once processed, it will be listed here and {{firstname}} {{lastname}}  will receive a welcome email."
+    },
+    "ordermanagement": {
+        "refnumber": "Reference number",
+        "products": "Products",
+        "orders": "Orders"
+    },
+    "pagination": {
+        "showing": "Showing",
+        "of": "of",
+        "documents": "documents"
+    },
+    "productdocuments": {
+        "title": "Product Documents",
+        "doctype": "Document Type",
+        "subtext": "Find and download product documents.",
+        "coa": "Certificate of analysis",
+        "tds": "Technical data sheet (TDS)",
+        "tdsmobile": "Technical data sheet",
+        "msds": "Material safety data sheet (MSDS)",
+        "msdsmobile": "Material safety data sheet",
+        "inputplaceholder": "Search using material number or product name",
+        "materialnumber": "Material code",
+        "batchnumber": "Batch number",
+        "required": "(Required)",
+        "productname": "Product Name ",
+        "matprodname": "Material code or product name",
+        "matprodnamereq": "Material code or product name is required",
+        "matnumreq": "Material code is required",
+        "batnumreq": "Batch number is required",
+        "matprodnameerror1": "Please enter valid material code\/Product number",
+        "validmatcode": "Please enter a valid Material Code",
+        "validbatnum": "Please enter a valid Batch Number",
+        "noresult": "No results found",
+        "noresultfor": "No results for \"{{matNum}}\" ",
+        "and": "and",
+        "noresultforand": "No results for \"{{matNum}}\" and \"{{batNum}}\"",
+        "novalidatemsg": "No results found ",
+        "resfound": "results found",
+        "novalidatemsgEnter": "Please try again.",
+        "search": "Search",
+        "download": "Download",
+        "viewprint": "View\/Print",
+        "productdescription": "Product Description",
+        "noresultinfomsg": "Please enter a valid material code or product name.",
+        "entermaterialcode": "Enter material code",
+        "enterbatchnumber": "Enter batch number",
+        "entermaterialcodeproductname": "Enter material code\/Product name here",
+        "matcodetooltip": "Material code tooltip",
+        "batchnumbertooltip": "Batch number tooltip",
+        "documentno": "Delivery Document no",
+        "ordercreatedate": "Order Created Date",
+        "deliverydate": "Delivery Date",
+        "deliverylocation": "Delivery Location",
+        "docunavailable": "Document unavailable",
+        "alertPopupmsg": "Visit our Help & Support section to request this document",
+        "resultsFoundText": ""
+    },
+    "profile": {
+        "profiletext": "Profile",
+        "name": "Name",
+        "firstname": "First name",
+        "lastname": "Last name",
+        "locationinformation": "Location information",
+        "country": "Country",
+        "language": "Language",
+        "timezone": "Time zone",
+        "role": "Role",
+        "industry": "Industry",
+        "jobtitle": "Job title",
+        "linkedinprofile": "LinkedIn profile",
+        "linkedinprofileoptional": "LinkedIn profile (optional)",
+        "contactdetails": "Contact details",
+        "mobilephone": "Mobile phone",
+        "mobilephoneoptional": "Mobile (optional)",
+        "officephone": "Work phone",
+        "officephoneoptional": "Work phone (optional)",
+        "countrycode": "Country code",
+        "faxphone": "Fax number",
+        "faxphoneoptional": "Fax number(optional)",
+        "preferredcontactmethod": "Preferred contact method",
+        "communicationpreference": "Communication preferences",
+        "notifications": "Order notifications",
+        "notifywhenorder": "Notify when order:",
+        "email": "Email ID",
+        "sms": "Phone",
+        "marketingpreferences": "Marketing preferences",
+        "MarketingCommunications": "Can we contact you about products and services that might be of interest?",
+        "ThirdPartyDataShare": "Can we contact you about products and services that might be of interest from our third party partners?",
+        "editpreference": "Edit preferences",
+        "lastLoggedIn": "Last Logged in",
+        "accountNo": "Account no",
+        "requestForErasure": "Request for erasure",
+        "superuser": "Super User",
+        "personaldetails": "Personal details",
+        "editpersonaldetails": "Edit personal details",
+        "editprofile": "Edit details",
+        "editpreferences": "Edit preferences",
+        "editcommunicationpreference": "Edit communication preferences",
+        "ordernotification": "Order notifications",
+        "mobilephonenumber": "Mobile phone number",
+        "ordernotificationoption": "Order notification options",
+        "selectall": "Select all",
+        "notprovided": "Not provided",
+        "notverified": "Not verified",
+        "verified": "Verified",
+        "Notify_confirmed_11": "Confirmed",
+        "Notify_Cancelled_88": "Cancelled",
+        "Notify_Delivered_04": "Delivered",
+        "Notify_Invoiced_06": "Invoiced",
+        "Notify_Delayed_99": "Delayed",
+        "Notify_Have_Delivery_Date_00": "Delivery date confirmed",
+        "Notify_Loaded_02": "On its way",
+        "Notify_1_Day_Away_01": "1 day away",
+        "Notify_2_Hour_Away_03": "2 hours away",
+        "emailAndSMS": "Email and SMS",
+        "onlyemail": "Email",
+        "onlysms": "SMS",
+        "donotnotify": "Do not notify",
+        "false": "No",
+        "true": "Yes",
+        "please": "Please",
+        "entermobnumber": "enter your mobile number",
+        "receivesmsnotification": "in order to receive SMS notifications",
+        "mobileverify": "Verify your mobile number",
+        "na": "N\/A",
+        "INT": "Email",
+        "PAG": "SMS",
+        "PRT": "Printer",
+        "RFC": "Remote Function Call",
+        "RML": "Remote Mail",
+        "SSF": "Secure Store & Forw.",
+        "TEL": "Telephone",
+        "TLX": "Telex",
+        "TTX": "Teletex",
+        "URI": "URL (Homepage)",
+        "VIS": "Sales call",
+        "X40": "X.400",
+        "enteryourmobileno": "Enter your mobile number",
+        "providenotification": "Provide us with your mobile number in order to receive SMS notifications.",
+        "mobile": "Mobile",
+        "continue": "Continue",
+        "selectcountry": "Please select the correct country code and provide a valid mobile number.",
+        "verifynumber": "Verify your number",
+        "sentotpnumber": "We've sent a One Time Passcode to Enter it below to verify your mobile number.",
+        "invalidcode": "This code is invalid or has expired. Please try again or resent passcode.",
+        "entercode": "Enter code",
+        "resendpasscode": "Resend passcode",
+        "verifyyournumber": "Verify your number",
+        "toreceivesmsnotification": "To receive SMS notifications, first verify your number with a secure passcode. Check your details are correct and request your passcode below.",
+        "sendpasscode": "Send passcode",
+        "checkyourphone": "Check your phone",
+        "confirm": "Confirm",
+        "selectcorrectcountry": "Please select the correct country code and provide a valid mobile number.",
+        "notificationnotsupporting": "Your country code is not supported for SMS text. Currently we only support the following countrires: Germany, Indonesia, India and Turkey.",
+        "mobilenoerrormsg": "Please enter your mobile number",
+        "ext": "ext",
+        "phoneext": "Ext.",
+        "timezonetooltip": "timezone tooltip",
+        "languagetooltip": "Your Shell MarketHub experience will be set to this language.",
+        "roletooltip": "Select an industry that most closely represents the company you work for.",
+        "jobtitletooltip": "Select a job title which most closely represents your day to day work.",
+        "linkedintooltip": "Grow your professional network by sharing your LinkedIn profile.",
+        "mobiletooltip": "We’ll use this as additional security if you log in from a new location. You can also choose to receive order updates straight to your mobile.",
+        "preferedmethodtooltip": "We will use this to contact you regarding any account queries or issues.",
+        "enterfirstname": "Enter your first name",
+        "enterlastname": "Enter your last name",
+        "selectlangauge": "Select your language",
+        "selecttimezone": "Select your time zone",
+        "selectindustry": "Select your industry",
+        "selectjobtitle": "Select your job title",
+        "enterlessthan40": "Maximum 40 characters allowed",
+        "pleaseverifyphone": "Please add a phone number",
+        "profilesaved": "Your personal details have been updated.",
+        "profilerror": "Sorry, we were unable to save your changes due to a technical issue. Please try again.",
+        "profilerrormmobile": "Sorry we are expereincing a technical issue at the moement. Could you try to save your changes again?",
+        "prefSaved": "Your preferences have been updated.",
+        "userRole": "User Role",
+        "userPrivilages": "User privileges",
+        "userStatus": "User status",
+        "superUserTooltip": "Super Users can assist with issues regarding your account access.You can contact them at {{superuserid}}",
+        "userRoleToolTip": "This describes which type of account access you have. This will be either as a Super User or Normal User.",
+        "privilageToolTip": "A user will have a different actions (or privileges) available to them depending on their job role.",
+        "userStatusToolTip": "This shows whether a user is active, or if their account has been deactivated.",
+        "normaluser": "Normal user",
+        "multitasker": "Multitasker",
+        "financeusergroup": "Financeuser",
+        "ordermanagementgroup": "Orderplacer",
+        "none": "None",
+        "passcodesent": "We've sent a One Time Passcode to",
+        "enterpasscode": "Enter it below to verify your mobile number.",
+        "enteryourpasscode": "Please enter your passcode",
+        "newpasscodesent": "New passcode sent",
+        "mobilenoverified": "Mobile number verified",
+        "passcodeinvalid": "We're unable to verify this number. It's either associated with another user or the passcode is incorrect. Please try again or go back to change your number.",
+        "notificationnotsupports": "Notifications are all set to email. We are not yet able to send SMS updates to customers in your country.",
+        "successfullyadded": "Mobile number successfully added.",
+        "select": "Select",
+        "selectCountryForm": "Select your country",
+        "saveChangesheader": "Save changes",
+        "msgOverlaytitle": "Please save or cancel your changes before you navigate away from this page",
+        "okayonPrompt": "Ok",
+        "optional": "(optional)",
+        "selectcountrycode": "Please enter a country code",
+        "entermobilenumber": "Please add a phone number",
+        "userStatusUpdated": "User status has been updated.",
+        "deactivated": "Deactivated",
+        "change": "Change",
+        "edittxt": "Edit",
+        "personalstitle": "1.User details",
+        "noSuperUserTooltip": "Super Users can assist with issues regarding your account access.",
+        "userDetailsInfo": "This information helps us to personalise their Shell MarketHub experience. They can amend this information at any time by editing their profile.",
+        "extoptional": ""
+    },
+    "proofofdelivery": {
+        "title": "Request proof of delivery",
+        "description": "Here are your deliveries that don't have proof of delivery documents",
+        "raiserequest": "Raise Request",
+        "descriptionone": "Below is the list of delevieries that",
+        "descriptiontwo": "do not have Proof of Delivery Documents.",
+        "descriptionthree": "Please select one or more deliveries to raise a 'Service Request' to locate the Proof of Delivery.",
+        "deliverydocumentrequested": "Requested proof of delivery documents."
+    },
+    "quickorder": {
+        "headertitle": "Quick order",
+        "headernote": "Order multiple products at once using the fields below. For contract products, use the ",
+        "contractPageLable": "contracts page.",
+        "inputplaceholder": "Enter product name or material code...",
+        "addproductstitle": "Add products",
+        "hashlabel": "#",
+        "productlabel": "Product",
+        "producteachlabel": "Each",
+        "quantitylabel": "Quantity",
+        "salesunitlabel": "Sales unit",
+        "materialcode": "Material code11:",
+        "orderconflict": "Quick order conflict",
+        "moreinformation": "More Information",
+        "volumelabel": "volume",
+        "weightlabel": "weight",
+        "reset_popup-content": "Are you sure you want to reset your list? By confirming you will lose all the products in your list.",
+        "resetproductbtn": "Clear list and start again",
+        "savequickorderbtn": "Save this list",
+        "addproductsbtn": "Add products to basket",
+        "noSearchResult": "No product found. Please try a different search term.",
+        "inlineError": "Please complete above fields before continuing.",
+        "0": {
+            "label": "",
+            "link": ""
+        }
+    },
+    "buttons": {
+        "prouct-clear": "Add product and clear list",
+        "continue": "Continue without product",
+        "reset_quick-order": "Reset quick order list",
+        "cancel": "Cancel",
+        "decline-replacement": "Decline replacement",
+        "accept-replacement": "Accept replacement",
+        "replaement-product": "Replacement product",
+        "view-saved-orders": "View saved orders"
+    },
+    "errors": {
+        "main-error": "There is 1 issue to resolve on this page before continuing.",
+        "table-productlist": "This product does not exist, please check the search term used."
+    },
+    "rollingstatements": {
+        "title": "Rolling statements",
+        "displayingentries": "Displaying entries for Shell entity :",
+        "displayingcurrency": "Currency:",
+        "doctype": "Document Type",
+        "coa": "Certificate of analysis",
+        "tds": "Technical data sheet (TDS)",
+        "tdsmobile": "Technical data sheet",
+        "msds": "Material safety data sheet (MSDS)",
+        "materialnumber": "Material code",
+        "batchnumber": "Batch number",
+        "productname": "Product Name ",
+        "matprodname": "Material code or product name",
+        "matprodnamereq": "Material code or product name is required",
+        "matnumreq": "Material number is required",
+        "batnumreq": "Batch number is required",
+        "matprodnameerror1": "Please enter valid material \/Product number",
+        "noresult": "There are no results to display ",
+        "search": "Search",
+        "download": "Download",
+        "viewprint": "View\/Print",
+        "productdescription": "Product Description",
+        "noresultinfomsg": "Please check if you have entered the correct information",
+        "entermaterialcode": "Enter material number",
+        "enterbatchnumber": "Enter batch number",
+        "entermaterialcodeproductname": "Enter material code\/Product name here",
+        "matcodetooltip": "Material code tooltip",
+        "batchnumbertooltip": "Batch number tooltip",
+        "totalamountusd": "Total amount (USD)",
+        "openitemsbydate": "Open items on date",
+        "date": "Date:",
+        "billingDate": "Billing date",
+        "billingType": "Billing type",
+        "totalAmount": "Total amount ({{currency}})",
+        "refDocnumber": "Reference Number",
+        "text": "Text",
+        "dueDate": "Due Date",
+        "shipToCode": "Ship-to code",
+        "daysDue": "Days due",
+        "clearingDocument": "Clearing document",
+        "daysPastDue": "Days past due",
+        "clearingDate": "Clearing date",
+        "paymentMethod": "Payment method",
+        "soldToCode": "Sold-to code",
+        "documentType": "Document type",
+        "documentNumber": "Document number",
+        "action": "Action",
+        "companyCode": "Company code",
+        "columnsSelected": "columns selected",
+        "chooseColumns": "Choose Columns"
+    },
+    "rollingstatementsExcel": {
+        "soldTo": "Sold to",
+        "soldToName": "Sold To Name & Address",
+        "shipTo": "Ship to",
+        "shipToName": "Ship To Name & Address",
+        "refNum": "Reference number",
+        "poNum": "PO Number",
+        "billingDoc": "Billing Document",
+        "billingType": "Billing type",
+        "disputeTag": "Dispute Tag",
+        "billingDate": "Billing date",
+        "paymentRef": "Payment Reference\/Method",
+        "dueDate": "Due date",
+        "daysDue": "Days due",
+        "daysPastDue": "Days past due",
+        "totalAmt": "Total amount",
+        "clearingDoc": "Clearing Document",
+        "clearingDate": "Clearing Date",
+        "text": "Text",
+        "openItem": "Open items on date",
+        "agingInt": "Aging interval",
+        "total": "Total",
+        "payerNum": "Payer Number",
+        "company": "Company",
+        "currency": "Currency: ",
+        "totale": "- Total: ",
+        "all": "All",
+        "CLOSED": "Closed",
+        "OPEN": "Open items on date",
+        "agingInt1": "Total due",
+        "agingInt2": "Total upcoming due",
+        "agingInt3": "Overdue for 1 - 30 days",
+        "agingInt4": "Overdue for 31 - 6o days",
+        "agingInt5": "Overdue for 61 - 90 days",
+        "agingInt6": "Overdue above 90 days",
+        "agingInt7": "Total Overdue",
+        "agingInt8": "To be paid today"
+    },
+    "settlementAdvice": {
+        "title": "Daily settlement advice",
+        "statementbydate": "Statements by date",
+        "download": "Download",
+        "productdescription": "Product Description",
+        "noresultinfomsg": "Please check if you have entered the correct information",
+        "showingResults": "Showing {{ fromCount }} to {{ toCount }} of {{ totalCount }} documents"
+    },
+    "dsaFilterSelect": {
+        "status": "Filter",
+        "status_all": "All",
+        "status_excel": "Excel",
+        "status_pdf": "PDF"
+    },
+    "statementofaccount": {
+        "title": "Statement of account",
+        "statementbydate": "Statements by date",
+        "productdescription": "Product Description",
+        "noresultinfomsg": "Please check if you have entered the correct information"
+    },
+    "system_down_info": {
+        "errorDuration": " We are undergoing scheduled maintenance until",
+        "errorDurationMsg": " During this time, the following areas of the site will be unavailable:",
+        "affectedArea": "Order \/ Products \/ Financials and documents",
+        "helpSupport": "Thank you for your patience.If you require immediate assistance,please contact our support team via Help and support"
+    },
+    "tooltiptext": {
+        "creditavailable": "Available Credit = ( Total Credit Limit - Overdue - Outstanding within Term )",
+        "remainingcredit": "Remaining Credit = ( Total Credit Limit - Overdue - Outstanding within Term - Open order Value )",
+        "lastpaymentdate": "Date of last payment received and recorded",
+        "lastpaymentamount": "Amount of last payment received and recorded",
+        "amountdue": "Amount owed for all invoiced orders",
+        "overdue": "Shows any amount due outside of the payment terms.",
+        "outstandingwithinterm": "Shows any amount due within the payment terms.",
+        "openordervalue": "The total of all orders that have not been invoiced or delivered yet.",
+        "materialNumToolTipText": "Material Number Tootltip Text Area------Information to be added",
+        "batchNumToolTipText": "Batch Number Tootltip Text Area------Information to be added",
+        "invoiceNavigation": "Click to view invoice details"
+    },
+    "uploadMessage": {
+        "dropFile": "or drop file here",
+        "uploadSuccess": "File uploaded.",
+        "uploadProcess": "Processing Order form...",
+        "processSuccess": "Order form processed successfully.",
+        "uploading": "Uploading...",
+        "maximumFileSize": "Maximum file size 10MB",
+        "successEntries": "{{len}}  product(s) found on your order form.",
+        "failEntries": "product(s) have issue(s). Please review these issue(s) below, or ",
+        "failEntries1": "remove product(s) with issue(s)."
+    },
+    "uploadButtons": {
+        "browseFile": "Browse Files",
+        "cancel": "Cancel",
+        "replace": "Replace file",
+        "processOrder": "Process order form",
+        "clearall": "Clear all and start again",
+        "okButton": "Continue"
+    },
+    "errMessages": {
+        "fileTypeError": "Please upload an Excel file.",
+        "fileSizeError": "Maximum file size 10MB."
+    },
+    "uploadContent": {
+        "uploadText": "Upload an Excel file based on one of the templates below.",
+        "contractText": "For contract products, use the",
+        "contractLink": "contracts page.",
+        "quickContent": "Quickly and easily add products to your basket using templates",
+        "createContent": "Create your order in Excel.",
+        "checkoutLink": "Check out our tutorial",
+        "uploadContent": "Upload to check your order with our service (e.g. stock availability, delivery times, statuses)",
+        "allProducts": "All products (Excel)",
+        "frequentlyOrder": "Frequently ordered products (Excel)",
+        "favouriteProducts": "Favourite products (Excel)",
+        "downloadTitle": "Download template",
+        "downloadContent": "Choose a template for your product type:",
+        "bulkButton": "Bulk products",
+        "packButton": "Pack products",
+        "cancel": "Cancel",
+        "downloadText": "Download template",
+        "orderHeading": "Order form templates",
+        "uploadHeading": "Why upload an order form?",
+        "removeAllTitle": "Remove all products with issues?",
+        "removeAllContent": "To view these products again, re-upload your order form.",
+        "removeAllText": "Remove products",
+        "successToastrMessage": "Removed products with issues",
+        "noProductsTemplate": "You don’t have available products to use in the template. Try a different template option or use the Quick order page.",
+        "noTemlateHeader": "No products in this template",
+        "uploadFormName": "UploadOrderForm"
+    },
+    "userroles": {
+        "14": "Multi-Tasker",
+        "03": "Order Placer",
+        "19": "Order Reviewer",
+        "22": "DFOA Order Placer",
+        "15": "Finance Manager",
+        "20": "Billing Supervisor",
+        "16": "Warehouse Manager",
+        "21": "DFOA Delivery Expert",
+        "17": "Sales&Marketing Manager",
+        "18": "Technical Manager",
+        "23": "DFOA Order Reviewer",
+        "multitasker": "",
+        "ordermanagementgroup": "",
+        "orderreviewergroup": "",
+        "dfoaorderplavergroup": "",
+        "financeusergroup": "",
+        "billingsupervisor": "",
+        "warehousemgrusergroup": "",
+        "dfoaexpertdeliverygroup": "",
+        "salesmarketingusergroup": "",
+        "techmanagergroup": "",
+        "b2badmingroup": ""
+    },
+    "wcag": {
+        "title": "text",
+        "myaccountnavmenu": "My Account Navigation"
+    },
+    "errorHandlers": {
+        "scriptFailedToLoad": "",
+        "refreshThePage": ""
+    },
+    "skipLink": {
+        "skipTo": "",
+        "labels": {
+            "header": "",
+            "main": "",
+            "footer": "",
+            "productFacets": "",
+            "productList": ""
+        }
+    },
+    "miniLogin": {
+        "userGreeting": "",
+        "signInRegister": ""
+    },
+    "refErrorMsg": {
+        "billingdocumentNumber": "",
+        "deliverydocumentNumber": "",
+        "purchaseOrderNumber": "",
+        "contractNumber": "",
+        "orderNumber": "",
+        "creditMemoNumber": "",
+        "distributorDeliveryNumber": ""
+    },
+    "httpHandlers": {
+        "badGateway": "",
+        "badRequestPleaseLoginAgain": "",
+        "badRequestOldPasswordIncorrect": "",
+        "conflict": "",
+        "forbidden": "",
+        "gatewayTimeout": "",
+        "internalServerError": "",
+        "unknownError": "",
+        "unauthorized": {
+            "common": "",
+            "invalid_client": ""
+        },
+        "validationErrors": {
+            "missing": {
+                "card_cardType": "",
+                "card_accountNumber": "",
+                "card_cvNumber": "",
+                "card_expirationMonth": "",
+                "card_expirationYear": "",
+                "billTo_firstName": "",
+                "billTo_lastName": "",
+                "billTo_street1": "",
+                "billTo_street2": "",
+                "billTo_city": "",
+                "billTo_state": "",
+                "billTo_country": "",
+                "billTo_postalCode": "",
+                "country": {
+                    "isocode": ""
+                }
+            },
+            "invalid": {
+                "card_expirationMonth": "",
+                "firstName": "",
+                "lastName": "",
+                "password": "",
+                "uid": ""
+            }
+        },
+        "cartNotFound": "",
+        "invalidCodeProvided": ""
+    },
+    "dateFilter": {
+        "billingdate": "",
+        "shipdate": "",
+        "createddate": ""
+    },
+    "navigation": {
+        "shopAll": ""
+    },
+    "sorting": {
+        "date": "",
+        "orderNumber": "",
+        "rma": ""
+    },
+    "pageMetaResolver": {
+        "category": {
+            "title": "",
+            "title_plural": ""
+        },
+        "checkout": {
+            "title": "",
+            "title_plural": ""
+        },
+        "search": {
+            "title": "",
+            "title_plural": "",
+            "findProductTitle": "",
+            "findProductTitle_plural": "",
+            "page_title": ""
+        },
+        "product": {
+            "description": "",
+            "heading": "",
+            "title": "",
+            "page_title": ""
+        }
+    },
+    "formErrors": {
+        "globalMessage": "",
+        "required": "",
+        "cxInvalidEmail": "",
+        "cxInvalidPassword": "",
+        "cxPasswordsMustMatch": "",
+        "cxEmailsMustMatch": "",
+        "cxStarRatingEmpty": "",
+        "cxNoSelectedItemToCancel": ""
+    },
+    "validationErrorMsg": {
+        "billingdocumentNumber": "",
+        "deliverydocumentNumber": "",
+        "purchaseOrderNumber": "",
+        "contractNumber": "",
+        "orderNumber": "",
+        "creditMemoNumber": "",
+        "distributorDeliveryNumber": ""
+    },
+    "productTabs": {
+        "allProducts": "",
+        "favourites": "",
+        "frequentlyOrdered": "",
+        "contractProducts": "",
+        "favouritesCount": "",
+        "allProductsCount": "",
+        "frequentlyOrderedCount": "",
+        "contractProductsCount": ""
+    },
+    "miniCart": {
+        "item": "",
+        "item_plural": "",
+        "total": "",
+        "count": ""
+    },
+    "spinner": {
+        "loading": ""
+    },
+    "searchBox": {
+        "placeholder": "",
+        "productlabel": "",
+        "materialcodetext": "",
+        "suggestiontext": "",
+        "contractProductLabel": "",
+        "viewProduct": "",
+        "favoriteSearch": "",
+        "frequentSearch": "",
+        "contractSearch": "",
+        "favoritelocation": "",
+        "help": {
+            "insufficientChars": "",
+            "noMatch": "",
+            "noMatchMessage1": "",
+            "noMatchVisitText1": "",
+            "noMatchVisitText2": "",
+            "noMatchVisitText3": "",
+            "exactMatch": "",
+            "empty": ""
+        },
+        "productapplicationtext": "",
+        "productcount": "",
+        "sortBy": ""
+    },
+    "documentFilter": {
+        "billingdate": "",
+        "shipdate": "",
+        "createddate": ""
+    },
+    "referenceDeliveryDoc": {
+        "delDocNo": "",
+        "creditMemoNumber": "",
+        "billingDocumentNumber": "",
+        "orderNumber": "",
+        "distributorDeliveryNumber": "",
+        "deliverydocumentNumber": "",
+        "purchaseOrderNumber": "",
+        "contractNumber": "",
+        "please": ""
+    },
+    "deliveryDocType": {
+        "61": "",
+        "68": "",
+        "69": "",
+        "72": ""
+    },
+    "viewOrderPage": [
+        {
+            "label": "",
+            "link": ""
+        }
+    ],
+    "orderHistoryPage": [
+        {
+            "label": "",
+            "link": ""
+        }
+    ],
+    "financialsHomePage": [
+        {
+            "label": "",
+            "link": ""
+        }
+    ],
+    "titles": {
+        "quickorder": "",
+        "cartPage": "",
+        "orderHistoryPage": ""
+    },
+    "productList": [
+        {
+            "label": "",
+            "link": "",
+            "sublink": [
+                {
+                    "label": "",
+                    "link": ""
+                }
+            ],
+            "favourites": [
+                {
+                    "label": "",
+                    "link": ""
+                }
+            ],
+            "frequentlyOrdered": [
+                {
+                    "label": "",
+                    "link": ""
+                }
+            ],
+            "contractProducts": [
+                {
+                    "label": "",
+                    "link": ""
+                }
+            ]
+        }
+    ],
+    "cartPage": [
+        {
+            "label": "",
+            "link": ""
+        },
+        {
+            "label": "",
+            "link": ""
+        }
+    ],
+    "productDocuments": [
+        {
+            "label": "",
+            "link": "",
+            "sublink": [
+                {
+                    "label": "",
+                    "link": ""
+                }
+            ]
+        }
+    ],
+    "sortByDelivery": {
+        "earliest": "",
+        "farthest": ""
+    },
+    "page_1.welcome": "WELCOME-1",
+    "page_1.lokalise_demo": "LOKALISE DEMO"
 }
